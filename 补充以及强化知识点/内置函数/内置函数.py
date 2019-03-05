@@ -151,6 +151,23 @@
 
   22. eval()　　将字符串str当成有效的表达式来求值并返回计算结果
 
+        1、简单表达式
+        print(eval('1+2'))
+        输出结果：3
+
+        2、字符串转字典
+        print(eval("{'name':'linux','age':18}")
+        输出结果：{'name':'linux','age':18}
+
+        3、传递全局变量
+        print(eval("{'name':'linux','age':age}",{"age":1822}))
+        输出结果：{'name': 'linux', 'age': 1822}
+        
+        4、传递本地变量
+        age=18
+        print(eval("{'name':'linux','age':age}",{"age":1822},locals()))
+        输出结果：{'name': 'linux', 'age': 18}
+
          >>> s = "1+2*3"
          >>> type(s)
          <class 'str'>
@@ -289,12 +306,20 @@
 
         issubclass(Bar, Foo)
 
-  42. map()     map(function, iterable,...)
+  42. map()     并行遍历，可接受一个function类型的参数
+                map(function, iterable,...)
                 对于参数iterable中的每个元素都应用fuction函数，并将结果作为列表返回。
                 如果有多个iterable参数，那么fuction函数必须接收多个参数，这些iterable中相同索引处的元素将并行的作为function函数的参数。
                 如果一个iterable中元素的个数比其他少，那么将用None来扩展改iterable使元素个数一致。
                 如果有多个iterable且function为None，map()将返回由元组组成的列表，每个元组包含所有iterable中对应索引处值。
                 参数iterable必须是一个序列或任何可遍历对象，函数返回的往往是一个列表(list)。
+
+        >>> a=[1,3,5]
+        >>> b=[2,4,6]
+        >>> map(None,a,b)
+        [(1, 2), (3, 4), (5, 6)]
+        >>> map(lambda x,y:x*y,a,b)
+        [2, 12, 30]
 
         li = [1,2,3]
         data = map(lambda x :x*100,li)
@@ -427,7 +452,8 @@
 
   66. vars()　　
 
-  67. zip()　　将对象逐一配对
+  67. zip()　　
+                将对象逐一配对
                 zip(*iterables)
                 从参数中的多个迭代器取元素组合成一个新的迭代器
                 返回：一个zip对象，其内部元素为元组；可以转化成列表或元组
