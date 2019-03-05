@@ -1,0 +1,139 @@
+最新文章的部分
+<div class="widget widget-recent-posts">
+    <h3 class="widget-title">最新文章</h3>
+    {% get_recent_posts as recent_post_list %}
+    <ul>
+        {% for post in recent_post_list %}
+        <li>
+            <a href="{{ post.get_absolute_url }}">{{ post.title }}</a>
+        </li>
+        {% empty %}
+        暂无文章！
+        {% endfor %}
+    </ul>
+</div>
+修改成
+<div class="widget widget-recent-posts">
+    <h3 class="widget-title">最新文章</h3>
+    {% get_recent_posts as recent_post_list %}
+    <ul>
+        {% for post in recent_post_list %}
+        <li>
+            <a href="{{ post.get_absolute_url }}">{{ post.title }}</a>
+        </li>
+        {% empty %}
+        暂无文章！
+        {% endfor %}
+    </ul>
+</div>
+
+
+归档部分
+<div class="widget widget-archives">
+    <h3 class="widget-title">归档</h3>
+    <ul>
+        <li>
+            <a href="#">2017 年 5 月</a>
+        </li>
+        <li>
+            <a href="#">2017 年 4 月</a>
+        </li>
+        <li>
+            <a href="#">2017 年 3 月</a>
+        </li>
+    </ul>
+</div>
+改成：
+<div class="widget widget-archives">
+    <h3 class="widget-title">归档</h3>
+    {% archives as date_list %}
+    <ul>
+        {% for date in date_list %}
+        <li>
+            <a href="#">{{ date.year }} 年 {{ date.month }} 月</a>
+        </li>
+        {% empty %}
+        暂无归档！
+        {% endfor %}
+    </ul>
+</div>
+进一步完善归档页面，修改超链接的 href 属性，让用户点击超链接后跳转到文章归档页面
+修改成：
+{% for date in date_list %}
+<li>
+    <a href="{% url 'blog:archives' date.year date.month %}">
+        <!--解析视图函数 blog:archives 对应的 URL 模式，并把 URL 模式中的年和月替换成 date.year，date.month 的值。-->
+        {{ date.year }} 年 {{ date.month }} 月
+    </a>
+</li>
+{% endfor %}
+
+分类部分
+<div class="widget widget-category">
+    <h3 class="widget-title">分类</h3>
+    <ul>
+        <li>
+            <a href="#">Django 博客教程 <span class="post-count">(13)</span></a>
+        </li>
+        <li>
+            <a href="#">Python 教程 <span class="post-count">(11)</span></a>
+        </li>
+        <li>
+            <a href="#">Django 用户认证 <span class="post-count">(8)</span></a>
+        </li>
+    </ul>
+</div>
+改成
+<div class="widget widget-category">
+    <h3 class="widget-title">分类</h3>
+    {% get_categories as category_list %}
+    <ul>
+        {% for category in category_list %}
+        <li>
+            <a href="#">{{ category.name }} <span class="post-count">(13)</span></a>
+        </li>
+        {% empty %}
+        暂无分类！
+        {% endfor %}
+    </ul>
+</div>
+
+评论区代码
+<form action="#" method="post" class="comment-form">
+    <div class="row">
+        <div class="col-md-4">
+            <label for="id_name">名字：</label>
+            <input type="text" id="id_name" name="name" required>
+        </div>
+        <div class="col-md-4">
+            <label for="id_email">邮箱：</label>
+            <input type="email" id="id_email" name="email" required>
+        </div>
+        <div class="col-md-4">
+            <label for="id_url">网址：</label>
+            <input type="text" id="id_url" name="url">
+        </div>
+        <div class="col-md-12">
+            <label for="id_comment">评论：</label>
+            <textarea name="comment" id="id_comment" required></textarea>
+            <button type="submit" class="comment-btn">发表</button>
+        </div>
+    </div>    <!-- row -->
+</form>
+改成：
+<form action="{% url 'comments:post_comment' post.pk %}" method="post" class="comment-form">
+  {% csrf_token %}
+  <div class="row">
+    <div class="col-md-4">
+      <label for="{{ form.name.id_for_label }}">名字：</label>
+      {{ form.name }}
+      {{ form.name.errors }}
+    </div>
+    <div class="col-md-12">
+      <label for="{{ form.text.id_for_label }}">评论：</label>
+      {{ form.text }}
+      {{ form.text.errors }}
+      <button type="submit" class="comment-btn">发表</button>
+    </div>
+  </div>    <!-- row -->
+</form>

@@ -1,0 +1,33 @@
+1 先搭建虚拟环境，用virtualenv +虚拟环境位置（D:\django_blog\django_env）
+                    虚拟环境所在地方          C:\Users\Administrator>virtualenv D:\django_blog\django_env
+                    激活虚拟环境              C:\Users\Administrator>D:\django_blog\django_env\Scripts>activate
+
+
+2，在使用python时经常可以发现某个lib有whl、tar、tar.gz等格式的包。
+
+
+whl包：已经编译的包，类似于exe文件；
+
+tar包：源文件，只是打包在一起，还没有编译；
+
+tar.gz包：源文件，压缩并打包在一起，还没有编译。
+
+如果环境挺充足，可以用tar包或者tar.gz包；
+
+
+如果环境欠缺，比如缺少某些编译环境，或者想要快速且稳定，可以考虑whl包；
+
+一般网络好的情况下，直接pip在线安装了… 但是有些时候没有编译环境，就得用whl包。
+
+3，https://blog.csdn.net/zoujuanabc/article/details/79759324   python离线批量安装依赖包
+  安装whl包： pip install  **.whl（前提是要安装好pip和wheel）
+  安装tar.gz包：cd到解压后路径,python setup.py install（安装pip和wheel都可以参照这种方法）
+  离线批量安装依赖包  pip install --no-index --find-links=D:\yangji\packages -r requirements.txt
+
+4，cffi-1.11.5-cp36-cp36m-win_amd64.whl  cp36代表python3.6
+
+5，Django 允许我们在 models.Model 的子类里定义一个 Meta 的内部类，
+   这个内部类通过指定一些属性来规定这个类该有的一些特性
+
+6，django基类View.as_view()
+   把视图函数的逻辑定义到类的方法里面去，然后在函数中实例化这个类，通过调用类的方法实现函数逻辑，而把逻辑定义在类中的   一个好处就是可以通过继承复用这些方法。

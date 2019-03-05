@@ -1,0 +1,2 @@
+https://www.jianshu.com/p/ffcc66bab3ce                              PEP8¹æ·¶
+https://docs.djangoproject.com/en/1.11/contents/                    DjangoÎÄµµÄÚÈİ 1.11

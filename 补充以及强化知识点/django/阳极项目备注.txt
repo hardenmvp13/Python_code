@@ -1,0 +1,7 @@
+1，crane 起重机
+detection 发现
+equipment 设备
+formula   配方
+pole  没有
+slot  插槽
+
