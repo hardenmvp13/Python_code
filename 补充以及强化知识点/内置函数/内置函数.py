@@ -162,7 +162,7 @@
         3、传递全局变量
         print(eval("{'name':'linux','age':age}",{"age":1822}))
         输出结果：{'name': 'linux', 'age': 1822}
-        
+
         4、传递本地变量
         age=18
         print(eval("{'name':'linux','age':age}",{"age":1822},locals()))
