@@ -27,14 +27,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="使用thread模块.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="使用thread模块.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程/使用thread模块.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="2" selection-end-line="38" selection-end-column="37" />
+            <state relative-caret-position="924">
+              <caret line="42" column="3" lean-forward="true" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
               <folding>
                 <element signature="e#19#33#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="通过sleep(6)引出锁的概念.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程/通过sleep(6)引出锁的概念.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -56,6 +66,7 @@
       <list>
         <option value="$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程/thread，threading的使用.py" />
         <option value="$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程/使用thread模块.py" />
+        <option value="$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程/通过sleep(6)引出锁的概念.py" />
       </list>
     </option>
   </component>
@@ -329,11 +340,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程/使用thread模块.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="2" selection-end-line="38" selection-end-column="37" />
+        <state relative-caret-position="924">
+          <caret line="42" column="3" lean-forward="true" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
           <folding>
             <element signature="e#19#33#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程/通过sleep(6)引出锁的概念.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
