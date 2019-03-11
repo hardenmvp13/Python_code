@@ -7,7 +7,7 @@
   1，搭建开发环境
          1.1 先搭建虚拟环境，用virtualenv +虚拟环境位置（D:\django_blog\django_env）
                     虚拟环境所在地方          C:\Users\Administrator>virtualenv D:\django_blog\django_env
-                    激活虚拟环境              C:\Users\Administrator>D:\django_blog\django_env\Scripts>activate
+                    激活虚拟环境              C:\Users\Administrator>D:\django_blog\django_env\Scripts\activate
          1.2 新建项目，使用 django-admin startproject +项目名称
                                              (django_env) D:\django_blog\code>django-admin startproject project
          1.3 运行django服务器， python manage.py runserver
