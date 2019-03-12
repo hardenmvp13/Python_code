@@ -1,6 +1,7 @@
 '''
 引入锁的概念
 '''
-x = [0] * 90
-for i,v in enumerate(x):
-    print(i,v)
+a = [1, 2, 3]
+b = [10, 10, 10]
+print(list(map(lambda x, y: x + y, a, b)))
+
