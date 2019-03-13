@@ -8,7 +8,7 @@ dict = {
             "潜力队伍": [
                 "太阳",
                 "独行侠队"]}}}
-print(dict["nba"]["others"]["潜力队伍"][-2])
+# print(dict["nba"]["others"]["潜力队伍"][-2])
 # 太阳
 
 '''字典外面叠加for循环'''
@@ -24,7 +24,7 @@ ret = {name: {
         'quantity': "7",
     } for log in logs_dict]
 } for name in name_dict}
-print(ret)
+# print(ret)
 # {'AA': {'status': '1', 'crane_status': '2', 'material': '3', 'logs': [{'material': '6', 'quantity': '7'}, {'material': '6', 'quantity': '7'}]},
 # 'BB': {'status': '1', 'crane_status': '2', 'material': '3', 'logs': [{'material': '6', 'quantity': '7'}, {'material': '6', 'quantity': '7'}]},
 #  'CC': {'status': '1', 'crane_status': '2', 'material': '3', 'logs': [{'material': '6', 'quantity': '7'}, {'material': '6', 'quantity': '7'}]}}
