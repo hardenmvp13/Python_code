@@ -9,6 +9,7 @@ dict = {
                 "太阳",
                 "独行侠队"]}}}
 print(dict["nba"]["others"]["潜力队伍"][-2])
+# 太阳
 
 '''字典外面叠加for循环'''
 name_dict = ["AA", "BB","CC"]
