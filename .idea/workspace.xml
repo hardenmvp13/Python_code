@@ -27,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/1，特殊方法（魔法方法）.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="473">
-              <caret line="236" column="0" lean-forward="true" selection-start-line="236" selection-start-column="0" selection-end-line="236" selection-end-column="0" />
+              <caret line="236" column="0" lean-forward="false" selection-start-line="236" selection-start-column="0" selection-end-line="236" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -103,6 +103,11 @@
             <path>
               <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_code" type="462c0819:PsiDirectoryNode" />
+              <item name="django_blog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
@@ -542,7 +547,7 @@
     <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/1，特殊方法（魔法方法）.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="473">
-          <caret line="236" column="0" lean-forward="true" selection-start-line="236" selection-start-column="0" selection-end-line="236" selection-end-column="0" />
+          <caret line="236" column="0" lean-forward="false" selection-start-line="236" selection-start-column="0" selection-end-line="236" selection-end-column="0" />
           <folding />
         </state>
       </provider>
