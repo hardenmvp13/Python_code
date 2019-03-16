@@ -73,22 +73,15 @@ class B(A):
 '''
 
 # 现在把return中的参数A变为cls，再来看一下运行结果：
-
-
 class A(object):
     pass
-
-
 class B(A):
     def __init__(self):
         print("__init__被调用了")
-
     def __new__(cls):
         print("__new__被调用了")
         print('id(cls):', id(cls))
         return object.__new__(cls)
-
-
 # b = B()
 # __new__被调用了
 # id(cls): 1845486187000
