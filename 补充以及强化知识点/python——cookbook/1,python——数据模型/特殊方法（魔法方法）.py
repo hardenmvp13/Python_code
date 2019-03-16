@@ -39,22 +39,15 @@ class Dog:
 # 颜色是白色 物种是哈士奇
 
 # 下面来看一个结合__init__和__new__两个魔法方法的例子：
-
-
 class A(object):
     pass
-
-
 class B(A):
     def __init__(self):
         print("__init__被调用了")
-
     def __new__(cls):
         print("__new__被调用了")
         print('id(cls):', id(cls))
         return object.__new__(A)
-
-
 # b = B()
 # __new__被调用了
 # id(cls): 1443760786360
