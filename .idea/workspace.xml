@@ -22,8 +22,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="1，魔法方法.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/1，魔法方法.py">
+      <file leaf-file-name="1，特殊方法（魔法方法）.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/1，特殊方法（魔法方法）.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="225" column="9" lean-forward="false" selection-start-line="225" selection-start-column="9" selection-end-line="225" selection-end-column="9" />
@@ -209,7 +209,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Knowledge-planet" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\python——cookbook——笔记\1，魔法方法.py" />
+      <option name="SCRIPT_NAME" value="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\python——cookbook——笔记\1，特殊方法（魔法方法）.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -537,7 +537,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/1，魔法方法.py">
+    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/1，特殊方法（魔法方法）.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="225" column="9" lean-forward="false" selection-start-line="225" selection-start-column="9" selection-end-line="225" selection-end-column="9" />
