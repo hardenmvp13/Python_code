@@ -92,3 +92,34 @@ class B(A):
 '''
 
 '''3、__class__：获得已知对象的类 ( 对象.__class__)。'''
+class A3:
+    count = 0
+    def addcount(self):
+        self.__class__.count += 1
+
+a3 = A3()
+a3.addcount()
+print(a3.count)
+# 1
+b3 = A3()
+b3.addcount()
+print(b3.count)
+# 2
+'''
+从运行结果可以看出，虽然a和b是两个不同的A类的实例对象，但采用了__class__之后，分别调用两个对象的addcount方法之后，
+获取到的对象的count属性却是在不断累加的(这是重点)，
+此时self.__class__.count不再是单纯的某个对象私有的属性，而是类的所有实例对象的共有属性,它相当于self.A.count。
+'''
+# 若将self.__class__.count += 1变为self.count += 1,此时__class__的效果就十分明显了。
+class A3:
+    count = 0
+    def addcount(self):
+        self.count += 1
+a3 = A3()
+a3.addcount()
+print(a3.count)
+# 1
+b3 = A3()
+b3.addcount()
+print(b3.count)
+# 1          （注意这里count的值还是1，因为这时候count分别是a3，b3对象的私有属性）

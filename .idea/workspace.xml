@@ -16,6 +16,7 @@
     <SUITE FILE_PATH="coverage/Python_code$sleep_6_.coverage" NAME="通过sleep(6)引出锁的概念 Coverage Results" MODIFIED="1552289373550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程" />
     <SUITE FILE_PATH="coverage/Python_code$debug.coverage" NAME="debug Coverage Results" MODIFIED="1552204365062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/调试" />
     <SUITE FILE_PATH="coverage/Python_code$.coverage" NAME="特殊方法（魔法方法） Coverage Results" MODIFIED="1552744221663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python——cookbook/1，python——数据模型" />
+    <SUITE FILE_PATH="coverage/Python_code$__1_.coverage" NAME="特殊方法（魔法方法） (1) Coverage Results" MODIFIED="1552746395692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python_cookbook_读书笔记" />
     <SUITE FILE_PATH="coverage/Python_code$try__expert.coverage" NAME="try  expert Coverage Results" MODIFIED="1552376634145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点" />
   </component>
   <component name="FileEditorManager">
@@ -23,8 +24,18 @@
       <file leaf-file-name="特殊方法（魔法方法）.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python_cookbook_读书笔记/特殊方法（魔法方法）.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="902">
-              <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+            <state relative-caret-position="318">
+              <caret line="124" column="54" lean-forward="false" selection-start-line="124" selection-start-column="54" selection-end-line="124" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="面向对象——类，对象，self，__init__,__str__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/补充以及强化知识点/面向对象——类，对象，self，__init__,__str__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2508">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -57,6 +68,7 @@
         <option value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook/1，python——数据模型/特殊方法.py" />
         <option value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook/1，python——数据模型/特殊方法（魔法方法）.py" />
         <option value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook/1,python——数据模型/特殊方法（魔法方法）.py" />
+        <option value="$PROJECT_DIR$/补充以及强化知识点/python_cookbook_读书笔记/特殊方法（魔法方法）.py" />
       </list>
     </option>
   </component>
@@ -151,7 +163,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.特殊方法（魔法方法）">
+  <component name="RunManager" selected="Python.特殊方法（魔法方法） (1)">
+    <configuration name="特殊方法（魔法方法） (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/补充以及强化知识点/python_cookbook_读书笔记" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Knowledge-planet" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/补充以及强化知识点/python_cookbook_读书笔记/特殊方法（魔法方法）.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="练习" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -228,39 +259,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="try  expert" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/补充以及强化知识点" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Knowledge-planet" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\try  except.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.try  expert" />
-      <item index="1" class="java.lang.String" itemvalue="Python.练习" />
-      <item index="2" class="java.lang.String" itemvalue="Python.验证" />
-      <item index="3" class="java.lang.String" itemvalue="Python.特殊方法" />
-      <item index="4" class="java.lang.String" itemvalue="Python.特殊方法（魔法方法）" />
+      <item index="0" class="java.lang.String" itemvalue="Python.练习" />
+      <item index="1" class="java.lang.String" itemvalue="Python.验证" />
+      <item index="2" class="java.lang.String" itemvalue="Python.特殊方法" />
+      <item index="3" class="java.lang.String" itemvalue="Python.特殊方法（魔法方法）" />
+      <item index="4" class="java.lang.String" itemvalue="Python.特殊方法（魔法方法） (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.特殊方法（魔法方法）" />
-        <item index="1" class="java.lang.String" itemvalue="Python.特殊方法" />
-        <item index="2" class="java.lang.String" itemvalue="Python.验证" />
-        <item index="3" class="java.lang.String" itemvalue="Python.练习" />
-        <item index="4" class="java.lang.String" itemvalue="Python.try  expert" />
+        <item index="0" class="java.lang.String" itemvalue="Python.特殊方法（魔法方法） (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.特殊方法（魔法方法）" />
+        <item index="2" class="java.lang.String" itemvalue="Python.特殊方法" />
+        <item index="3" class="java.lang.String" itemvalue="Python.验证" />
+        <item index="4" class="java.lang.String" itemvalue="Python.练习" />
       </list>
     </recent_temporary>
   </component>
@@ -282,6 +294,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -289,7 +302,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21428572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21428572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -485,10 +498,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/面向对象——类，对象，self，__init__,__str__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2508">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python_cookbook_读书笔记/特殊方法（魔法方法）.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
-          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+        <state relative-caret-position="318">
+          <caret line="124" column="54" lean-forward="false" selection-start-line="124" selection-start-column="54" selection-end-line="124" selection-end-column="54" />
           <folding />
         </state>
       </provider>
