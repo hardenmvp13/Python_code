@@ -218,10 +218,10 @@ class NewClass(object):
         print("del：", self.name, NewClass.num_count)
     def test(self):
         print("aa")
-newclass1 = NewClass("harden")
-newclass2 = NewClass("james")
-newclass3 = NewClass("kobe")
-print("over")
+# newclass1 = NewClass("harden")
+# newclass2 = NewClass("james")
+# newclass3 = NewClass("kobe")
+# print("over")
 # harden 1
 # james 2
 # kobe 3
@@ -234,4 +234,30 @@ print("over")
 总而言之，__del__魔法方法是在对象没有变量再引用，其引用计数减为0，进行垃圾回收的时候自动调用的。
 '''
 
-
+'''
+7、__getattribute__：属性访问拦截器，在访问实例属性时自动调用。在python中，类的属性和方法都理解为属性，
+                        且均可以通过__getattribute__获取。当获取属性时，相当于对属性进行重写，直接return object.__getattribute__(self, *args, **kwargs)或者根据判断return所需要的重写值，
+                        如果需要获取某个方法的返回值时，则需要在函数后面加上一个()即可。如果不加的话，返回的是函数引用地址。
+'''
+class Test(object):
+    def __init__(self,subject1):
+        self.subject1 = subject1
+        self.subject2 = "cpp"
+    def __getattribute__(self, item):
+        if item == "subject1":
+            return "redirect python"
+        else:
+            return object.__getattribute__(self, item)
+# s = Test("python")
+# print(s.subject1)
+# print(s.subject2)
+# redirect python
+# cpp
+'''
+在创建实例对象s并对其初始化的时候，subject1的值设置为‘python’，subject2的值设置为‘cpp’，
+在访问s的subject1属性时，因为Test类对object类中的__getattribute__方法进行了重写，
+所以在调用此方法时，首先对要访问的属性做一个拦截和判断，此时__getattribute__方法中的参数obj对应的是要访问的属性，
+若要访问subject1属性，则对该属性进行重写，返回了一个不同的字符串，
+我们可以看到，在初始化时，subject1 的值为‘python’，而在访问subject1这个属性时，返回的值是'redirect python'，而在访问subject2时，则调用其父类中的__getattribute__方法，返回正常的subject2属性的值。
+当然，在访问类的方法属性时，也可以通过重写__getattribute__的方法对其进行重写。
+'''
