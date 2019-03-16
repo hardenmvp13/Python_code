@@ -12,7 +12,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Python_code$thread.coverage" NAME="使用thread模块 Coverage Results" MODIFIED="1552207038881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程" />
     <SUITE FILE_PATH="coverage/Python_code$mysqlpymysql.coverage" NAME="mysql（pymysql） Coverage Results" MODIFIED="1552376349998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python核心编程/python 使用mysql/数据库刷题" />
-    <SUITE FILE_PATH="coverage/Python_code$1.coverage" NAME="1，特殊方法（魔法方法） Coverage Results" MODIFIED="1552752586353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记" />
+    <SUITE FILE_PATH="coverage/Python_code$1.coverage" NAME="1，特殊方法（魔法方法） Coverage Results" MODIFIED="1552753935955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记" />
     <SUITE FILE_PATH="coverage/Python_code$threadthreading.coverage" NAME="thread，threading的使用 Coverage Results" MODIFIED="1552205941312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程" />
     <SUITE FILE_PATH="coverage/Python_code$sleep_6_.coverage" NAME="通过sleep(6)引出锁的概念 Coverage Results" MODIFIED="1552289373550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程" />
     <SUITE FILE_PATH="coverage/Python_code$debug.coverage" NAME="debug Coverage Results" MODIFIED="1552204365062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/调试" />
@@ -27,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/1，特殊方法（魔法方法）.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="274">
-              <caret line="261" column="47" lean-forward="false" selection-start-line="261" selection-start-column="47" selection-end-line="261" selection-end-column="47" />
+              <caret line="322" column="81" lean-forward="false" selection-start-line="322" selection-start-column="81" selection-end-line="322" selection-end-column="81" />
               <folding />
             </state>
           </provider>
@@ -557,7 +557,7 @@
     <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/1，特殊方法（魔法方法）.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
-          <caret line="261" column="47" lean-forward="false" selection-start-line="261" selection-start-column="47" selection-end-line="261" selection-end-column="47" />
+          <caret line="322" column="81" lean-forward="false" selection-start-line="322" selection-start-column="81" selection-end-line="322" selection-end-column="81" />
           <folding />
         </state>
       </provider>

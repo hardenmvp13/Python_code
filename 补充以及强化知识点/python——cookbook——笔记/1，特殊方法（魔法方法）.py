@@ -261,3 +261,64 @@ class Test(object):
 我们可以看到，在初始化时，subject1 的值为‘python’，而在访问subject1这个属性时，返回的值是'redirect python'，而在访问subject2时，则调用其父类中的__getattribute__方法，返回正常的subject2属性的值。
 当然，在访问类的方法属性时，也可以通过重写__getattribute__的方法对其进行重写。
 '''
+
+'''
+8、__bases__：获取指定类的所有父类构成元素，使用方法为类名.__bases__
+'''
+class A:
+    pass
+class B(A):
+    pass
+class C:
+    pass
+class D(B, C):
+    pass
+# print(D.__bases__)
+# (<class '__main__.B'>, <class '__main__.C'>)
+
+'''
+9、__mro__：显示指定类的所有继承脉络和继承顺序，假如这个指定的类不具有某些方法和属性，
+            但与其有血统关系的类中具有这些属性和方法，则在访问这个类本身不具有的这些方法和属性时，
+            会按照__mro__显示出来的顺序一层一层向后查找，直到找到为止。
+'''
+class A:
+    pass
+class B(A):
+    pass
+class C:
+    pass
+class D(B, C):
+    pass
+print(D.__mro__)
+# (<class '__main__.D'>, <class '__main__.B'>, <class '__main__.A'>, <class '__main__.C'>, <class 'object'>)
+
+'''
+10、__call__:具有__call__魔法方法的对象可以使用XXX()的形式被调用，比如说类的实例对象
+'''
+class Dog(object):
+    def __init__(self):
+        print("__init__正在被调用————")
+# laowang = Dog()
+# laowang()
+# TypeError: 'Dog' object is not callable   出错
+
+#进行修改
+class Dog(object):
+    def __init__(self):
+        print("__init__正在被调用————")
+    def __call__(self):
+        print("__cal__正在被调用————")
+# laowang = Dog()
+# laowang()
+# __init__正在被调用————
+# __cal__正在被调用————
+
+'''
+11、魔法属性：__slots__:可以限制实例对象的属性和方法，但是对类不起作用。
+'''
+
+'''
+12、__all__:将一个py文件作为模块导入时，其中if __name__ == "main"以上的类、方法、函数等都能被导入，
+            但某些方法可能只是用来做测试用的，不希望也不建议被导入，可以用__all__=['函数名或方法名']的方式限制一下哪些函数或方法可以被导入，
+            即[]中的函数名或方法名可以被导入。但是需要强调的是，__all__魔法方法只针对通过 from xx import *这种导入方式有效。
+'''
