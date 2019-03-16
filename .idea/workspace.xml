@@ -23,8 +23,8 @@
       <file leaf-file-name="特殊方法（魔法方法）.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook/1,python——数据模型/特殊方法（魔法方法）.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="83" column="34" lean-forward="false" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
+            <state relative-caret-position="238">
+              <caret line="99" column="0" lean-forward="true" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -104,6 +104,12 @@
               <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_code" type="462c0819:PsiDirectoryNode" />
               <item name="补充以及强化知识点" type="462c0819:PsiDirectoryNode" />
+              <item name="pandas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_code" type="462c0819:PsiDirectoryNode" />
+              <item name="补充以及强化知识点" type="462c0819:PsiDirectoryNode" />
               <item name="python——cookbook" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -132,10 +138,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\python——cookbook" />
+      <recent name="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\pandas" />
       <recent name="D:\python练习代码\python笔记\Python_code\知识星球刷题" />
       <recent name="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\python核心编程\正则表达式" />
       <recent name="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\python核心编程\python 使用mysql" />
-      <recent name="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\python核心编程" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -486,8 +493,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook/1,python——数据模型/特殊方法（魔法方法）.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="83" column="34" lean-forward="false" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
+        <state relative-caret-position="238">
+          <caret line="99" column="0" lean-forward="true" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
           <folding />
         </state>
       </provider>
