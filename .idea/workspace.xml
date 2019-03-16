@@ -15,26 +15,16 @@
     <SUITE FILE_PATH="coverage/Python_code$threadthreading.coverage" NAME="thread，threading的使用 Coverage Results" MODIFIED="1552205941312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程" />
     <SUITE FILE_PATH="coverage/Python_code$sleep_6_.coverage" NAME="通过sleep(6)引出锁的概念 Coverage Results" MODIFIED="1552289373550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程" />
     <SUITE FILE_PATH="coverage/Python_code$debug.coverage" NAME="debug Coverage Results" MODIFIED="1552204365062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/调试" />
-    <SUITE FILE_PATH="coverage/Python_code$.coverage" NAME="练习 Coverage Results" MODIFIED="1552494685096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/字典" />
+    <SUITE FILE_PATH="coverage/Python_code$.coverage" NAME="特殊方法 Coverage Results" MODIFIED="1552741249928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python——cookbook/1，python——数据模型" />
     <SUITE FILE_PATH="coverage/Python_code$try__expert.coverage" NAME="try  expert Coverage Results" MODIFIED="1552376634145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="练习.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/补充以及强化知识点/字典/练习.py">
+      <file leaf-file-name="特殊方法（魔法方法）.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook/1，python——数据模型/特殊方法（魔法方法）.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="字典内置函数.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/补充以及强化知识点/字典/字典内置函数.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="44">
+              <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -63,6 +53,9 @@
         <option value="$PROJECT_DIR$/补充以及强化知识点/python核心编程/python 使用mysql/数据库刷题/mysql（pymysql）.py" />
         <option value="$PROJECT_DIR$/补充以及强化知识点/try  expert.py" />
         <option value="$PROJECT_DIR$/补充以及强化知识点/字典/练习.py" />
+        <option value="$PROJECT_DIR$/补充以及强化知识点/字典/字典内置函数.py" />
+        <option value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook/1，python——数据模型/特殊方法.py" />
+        <option value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook/1，python——数据模型/特殊方法（魔法方法）.py" />
       </list>
     </option>
   </component>
@@ -105,18 +98,20 @@
             <path>
               <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_code" type="462c0819:PsiDirectoryNode" />
-              <item name="知识星球刷题" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_code" type="462c0819:PsiDirectoryNode" />
               <item name="补充以及强化知识点" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_code" type="462c0819:PsiDirectoryNode" />
               <item name="补充以及强化知识点" type="462c0819:PsiDirectoryNode" />
-              <item name="python核心编程" type="462c0819:PsiDirectoryNode" />
+              <item name="python——cookbook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_code" type="462c0819:PsiDirectoryNode" />
+              <item name="补充以及强化知识点" type="462c0819:PsiDirectoryNode" />
+              <item name="python——cookbook" type="462c0819:PsiDirectoryNode" />
+              <item name="1，python——数据模型" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -149,7 +144,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.练习">
+  <component name="RunManager" selected="Python.特殊方法">
     <configuration name="练习" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,6 +159,44 @@
       <module name="Knowledge-planet" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/补充以及强化知识点/字典/练习.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="验证" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/补充以及强化知识点" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Knowledge-planet" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/补充以及强化知识点/验证.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="特殊方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook/1，python——数据模型" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Knowledge-planet" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\python——cookbook\1，python——数据模型\特殊方法（魔法方法）.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,44 +221,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="通过sleep(6)引出锁的概念" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Knowledge-planet" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程/通过sleep(6)引出锁的概念.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="使用thread模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Knowledge-planet" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程/使用thread模块.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="try  expert" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,26 +234,26 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Knowledge-planet" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/补充以及强化知识点/try  expert.py" />
+      <option name="SCRIPT_NAME" value="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\try  except.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.使用thread模块" />
-      <item index="1" class="java.lang.String" itemvalue="Python.通过sleep(6)引出锁的概念" />
-      <item index="2" class="java.lang.String" itemvalue="Python.mysql（pymysql）" />
-      <item index="3" class="java.lang.String" itemvalue="Python.try  expert" />
-      <item index="4" class="java.lang.String" itemvalue="Python.练习" />
+      <item index="0" class="java.lang.String" itemvalue="Python.mysql（pymysql）" />
+      <item index="1" class="java.lang.String" itemvalue="Python.try  expert" />
+      <item index="2" class="java.lang.String" itemvalue="Python.练习" />
+      <item index="3" class="java.lang.String" itemvalue="Python.验证" />
+      <item index="4" class="java.lang.String" itemvalue="Python.特殊方法" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.练习" />
-        <item index="1" class="java.lang.String" itemvalue="Python.try  expert" />
-        <item index="2" class="java.lang.String" itemvalue="Python.mysql（pymysql）" />
-        <item index="3" class="java.lang.String" itemvalue="Python.通过sleep(6)引出锁的概念" />
-        <item index="4" class="java.lang.String" itemvalue="Python.使用thread模块" />
+        <item index="0" class="java.lang.String" itemvalue="Python.特殊方法" />
+        <item index="1" class="java.lang.String" itemvalue="Python.验证" />
+        <item index="2" class="java.lang.String" itemvalue="Python.练习" />
+        <item index="3" class="java.lang.String" itemvalue="Python.try  expert" />
+        <item index="4" class="java.lang.String" itemvalue="Python.mysql（pymysql）" />
       </list>
     </recent_temporary>
   </component>
@@ -280,6 +275,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -287,7 +283,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2579365" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2579365" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -337,7 +333,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程/不使用线程.py">
+    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python核心编程——读书笔记/多线程编程/不使用线程.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="23" selection-end-column="10" />
@@ -372,7 +368,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程/使用thread模块.py">
+    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python核心编程——读书笔记/多线程编程/使用thread模块.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="924">
           <caret line="42" column="3" lean-forward="false" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
@@ -382,7 +378,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程/通过sleep(6)引出锁的概念.py">
+    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python核心编程——读书笔记/多线程编程/通过sleep(6)引出锁的概念.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
@@ -396,14 +392,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python核心编程/python 使用mysql/数据库刷题/mysql 增删查补更.py">
+    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python核心编程——读书笔记/python 使用mysql/数据库刷题/mysql 增删查补更.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-264">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python核心编程/python 使用mysql/数据库刷题/mysql（pymysql）.py">
+    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python核心编程——读书笔记/python 使用mysql/数据库刷题/mysql（pymysql）.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="122" column="10" lean-forward="true" selection-start-line="122" selection-start-column="10" selection-end-line="122" selection-end-column="10" />
@@ -427,23 +423,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python核心编程/python 使用mysql/数据库刷题/mysql_python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/try  expert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/字典/字典内置函数.py">
+    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python核心编程——读书笔记/python 使用mysql/数据库刷题/mysql_python.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -454,7 +434,47 @@
     <entry file="file://$PROJECT_DIR$/补充以及强化知识点/字典/练习.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/try  except.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/验证.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/运算符以及数字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/字典/字典内置函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook/1，python——数据模型/特殊方法（魔法方法）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
           <folding />
         </state>
       </provider>
