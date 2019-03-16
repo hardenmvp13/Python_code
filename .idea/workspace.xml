@@ -21,7 +21,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="特殊方法（魔法方法）.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/补充以及强化知识点/pandas/1,python——数据模型/特殊方法（魔法方法）.py">
+        <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook/1,python——数据模型/特殊方法（魔法方法）.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="902">
               <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
@@ -111,14 +111,14 @@
               <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_code" type="462c0819:PsiDirectoryNode" />
               <item name="补充以及强化知识点" type="462c0819:PsiDirectoryNode" />
-              <item name="pandas" type="462c0819:PsiDirectoryNode" />
-              <item name="1,python——数据模型" type="462c0819:PsiDirectoryNode" />
+              <item name="python——cookbook" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_code" type="462c0819:PsiDirectoryNode" />
               <item name="补充以及强化知识点" type="462c0819:PsiDirectoryNode" />
               <item name="python——cookbook" type="462c0819:PsiDirectoryNode" />
+              <item name="1,python——数据模型" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
@@ -139,8 +139,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\pandas" />
       <recent name="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\python——cookbook" />
+      <recent name="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\pandas" />
       <recent name="D:\python练习代码\python笔记\Python_code\知识星球刷题" />
       <recent name="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\python核心编程\正则表达式" />
       <recent name="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\python核心编程\python 使用mysql" />
@@ -492,7 +492,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/pandas/1,python——数据模型/特殊方法（魔法方法）.py">
+    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook/1,python——数据模型/特殊方法（魔法方法）.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="902">
           <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
