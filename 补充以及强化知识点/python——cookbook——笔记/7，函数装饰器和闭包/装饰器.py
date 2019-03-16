@@ -9,7 +9,7 @@ def deco(func):
     def inner():
         print("running inner()")
     return inner
-@deco
+@deco  #得到一个函数的对象inner，inner和inner()不一样，inner只是一个对象，不会运行
 def target():
     print("running target()")
 
@@ -133,4 +133,5 @@ dis(f1)  #比较字节码   暂时搞不懂
 '''
 5,闭包
 经常和匿名函数搞混，
-闭包指的是：延伸了作用域的函数，其中包含函数定义体中引用的'''
+闭包指的是：延伸了作用域的函数，其中包含函数定义体中引用的
+'''

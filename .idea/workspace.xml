@@ -17,17 +17,27 @@
     <SUITE FILE_PATH="coverage/Python_code$sleep_6_.coverage" NAME="通过sleep(6)引出锁的概念 Coverage Results" MODIFIED="1552289373550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程" />
     <SUITE FILE_PATH="coverage/Python_code$debug.coverage" NAME="debug Coverage Results" MODIFIED="1552204365062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/调试" />
     <SUITE FILE_PATH="coverage/Python_code$__1_.coverage" NAME="特殊方法（魔法方法） (1) Coverage Results" MODIFIED="1552748158587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python_cookbook_读书笔记" />
-    <SUITE FILE_PATH="coverage/Python_code$.coverage" NAME="装饰器 Coverage Results" MODIFIED="1552764343882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包" />
+    <SUITE FILE_PATH="coverage/Python_code$.coverage" NAME="自己理解的装饰器 Coverage Results" MODIFIED="1552765847106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包" />
     <SUITE FILE_PATH="coverage/Python_code$try__expert.coverage" NAME="try  expert Coverage Results" MODIFIED="1552376634145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点" />
     <SUITE FILE_PATH="coverage/Python_code$__2_.coverage" NAME="特殊方法（魔法方法） (2) Coverage Results" MODIFIED="1552751049785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python_cookbook_读书笔记/1,特殊方法（魔法方法）" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="装饰器.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="装饰器.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包/装饰器.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="135" column="29" lean-forward="false" selection-start-line="135" selection-start-column="29" selection-end-line="135" selection-end-column="29" />
+            <state relative-caret-position="-166">
+              <caret line="11" column="56" lean-forward="false" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="自己理解的装饰器.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包/自己理解的装饰器.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -68,6 +78,7 @@
         <option value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/1，特殊方法（魔法方法）.py" />
         <option value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/2，数据结构/列表推导和生成器表达式.py" />
         <option value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包/装饰器.py" />
+        <option value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包/自己理解的装饰器.py" />
       </list>
     </option>
   </component>
@@ -188,26 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.装饰器">
-    <configuration name="特殊方法（魔法方法） (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/补充以及强化知识点/python_cookbook_读书笔记" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Knowledge-planet" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\python——cookbook——笔记\1,特殊方法（魔法方法）\特殊方法（魔法方法）.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.自己理解的装饰器">
     <configuration name="特殊方法（魔法方法） (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -284,20 +276,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="自己理解的装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Knowledge-planet" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包/自己理解的装饰器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.特殊方法（魔法方法） (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.特殊方法（魔法方法） (2)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.魔法方法" />
-      <item index="3" class="java.lang.String" itemvalue="Python.1，特殊方法（魔法方法）" />
-      <item index="4" class="java.lang.String" itemvalue="Python.装饰器" />
+      <item index="0" class="java.lang.String" itemvalue="Python.特殊方法（魔法方法） (2)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.魔法方法" />
+      <item index="2" class="java.lang.String" itemvalue="Python.1，特殊方法（魔法方法）" />
+      <item index="3" class="java.lang.String" itemvalue="Python.装饰器" />
+      <item index="4" class="java.lang.String" itemvalue="Python.自己理解的装饰器" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.装饰器" />
-        <item index="1" class="java.lang.String" itemvalue="Python.1，特殊方法（魔法方法）" />
-        <item index="2" class="java.lang.String" itemvalue="Python.魔法方法" />
-        <item index="3" class="java.lang.String" itemvalue="Python.特殊方法（魔法方法） (2)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.特殊方法（魔法方法） (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.自己理解的装饰器" />
+        <item index="1" class="java.lang.String" itemvalue="Python.装饰器" />
+        <item index="2" class="java.lang.String" itemvalue="Python.1，特殊方法（魔法方法）" />
+        <item index="3" class="java.lang.String" itemvalue="Python.魔法方法" />
+        <item index="4" class="java.lang.String" itemvalue="Python.特殊方法（魔法方法） (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -595,8 +606,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包/装饰器.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="135" column="29" lean-forward="false" selection-start-line="135" selection-start-column="29" selection-end-line="135" selection-end-column="29" />
+        <state relative-caret-position="-166">
+          <caret line="11" column="56" lean-forward="false" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包/自己理解的装饰器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
