@@ -1,4 +1,4 @@
-# 内置函数的高阶
+# 内置函数中的的高阶函数（提高代码的简洁性）
 '''1,map()函数接收两个参数，一个是函数，一个是Iterable，map将传入的函数依次作用到序列的每个元素，并把结果作为新的Iterator返回。(经常和lambda匿名函数搭配使用)'''
 map_list = map(lambda x: x + 2, [2, 4, 6])
 print(map_list)

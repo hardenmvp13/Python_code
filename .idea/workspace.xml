@@ -28,10 +28,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="map，reduce，filter，sorted，zip.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/补充以及强化知识点/函数式编程/高阶函数/map/map，reduce，filter，sorted，zip.py">
+        <entry file="file://$PROJECT_DIR$/补充以及强化知识点/函数式编程/高阶函数/map，reduce，filter，sorted，zip.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="89" column="34" lean-forward="true" selection-start-line="89" selection-start-column="34" selection-end-line="89" selection-end-column="34" />
+            <state relative-caret-position="176">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -41,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/补充以及强化知识点/内置函数/内置函数.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="296">
-              <caret line="505" column="25" lean-forward="true" selection-start-line="458" selection-start-column="2" selection-end-line="505" selection-end-column="25" />
+              <caret line="505" column="25" lean-forward="false" selection-start-line="458" selection-start-column="2" selection-end-line="505" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -159,14 +159,6 @@
               <item name="函数式编程" type="462c0819:PsiDirectoryNode" />
               <item name="高阶函数" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_code" type="462c0819:PsiDirectoryNode" />
-              <item name="补充以及强化知识点" type="462c0819:PsiDirectoryNode" />
-              <item name="函数式编程" type="462c0819:PsiDirectoryNode" />
-              <item name="高阶函数" type="462c0819:PsiDirectoryNode" />
-              <item name="map" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -180,11 +172,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\函数式编程\高阶函数" />
       <recent name="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\python——cookbook——笔记\1，特殊方法（魔法方法）" />
       <recent name="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\python——cookbook——笔记" />
       <recent name="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\python——cookbook——笔记\1,特殊方法（魔法方法）" />
       <recent name="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\python_cookbook_读书笔记" />
-      <recent name="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\python_cookbook_读书笔记\1,特殊方法（魔法方法）" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -270,7 +262,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Knowledge-planet" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\函数式编程\高阶函数\map\map，reduce，filter，sorted，zip.py" />
+      <option name="SCRIPT_NAME" value="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\函数式编程\高阶函数\map，reduce，filter，sorted，zip.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,7 +281,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Knowledge-planet" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/补充以及强化知识点/函数式编程/高阶函数/map/map，reduce，filter，sorted，zip.py" />
+      <option name="SCRIPT_NAME" value="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\函数式编程\高阶函数\map，reduce，filter，sorted，zip.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,7 +322,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -338,7 +329,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21428572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21428572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -639,15 +630,15 @@
     <entry file="file://$PROJECT_DIR$/补充以及强化知识点/内置函数/内置函数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
-          <caret line="505" column="25" lean-forward="true" selection-start-line="458" selection-start-column="2" selection-end-line="505" selection-end-column="25" />
+          <caret line="505" column="25" lean-forward="false" selection-start-line="458" selection-start-column="2" selection-end-line="505" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/函数式编程/高阶函数/map/map，reduce，filter，sorted，zip.py">
+    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/函数式编程/高阶函数/map，reduce，filter，sorted，zip.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="89" column="34" lean-forward="true" selection-start-line="89" selection-start-column="34" selection-end-line="89" selection-end-column="34" />
+        <state relative-caret-position="176">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
