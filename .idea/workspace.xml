@@ -13,8 +13,10 @@
     <SUITE FILE_PATH="coverage/Python_code$thread.coverage" NAME="使用thread模块 Coverage Results" MODIFIED="1552207038881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程" />
     <SUITE FILE_PATH="coverage/Python_code$mysqlpymysql.coverage" NAME="mysql（pymysql） Coverage Results" MODIFIED="1552376349998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python核心编程/python 使用mysql/数据库刷题" />
     <SUITE FILE_PATH="coverage/Python_code$1.coverage" NAME="1，特殊方法（魔法方法） Coverage Results" MODIFIED="1552753935955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记" />
+    <SUITE FILE_PATH="coverage/Python_code$__slots___property.coverage" NAME="廖雪峰的__slots__，和@property Coverage Results" MODIFIED="1552803589400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包" />
     <SUITE FILE_PATH="coverage/Python_code$threadthreading.coverage" NAME="thread，threading的使用 Coverage Results" MODIFIED="1552205941312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程" />
     <SUITE FILE_PATH="coverage/Python_code$sleep_6_.coverage" NAME="通过sleep(6)引出锁的概念 Coverage Results" MODIFIED="1552289373550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程" />
+    <SUITE FILE_PATH="coverage/Python_code$_property.coverage" NAME="廖雪峰的@property Coverage Results" MODIFIED="1552803114646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包" />
     <SUITE FILE_PATH="coverage/Python_code$debug.coverage" NAME="debug Coverage Results" MODIFIED="1552204365062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/调试" />
     <SUITE FILE_PATH="coverage/Python_code$__1_.coverage" NAME="特殊方法（魔法方法） (1) Coverage Results" MODIFIED="1552748158587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python_cookbook_读书笔记" />
     <SUITE FILE_PATH="coverage/Python_code$.coverage" NAME="常见的内置装饰器 Coverage Results" MODIFIED="1552769939500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包" />
@@ -53,11 +55,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="常见的内置装饰器.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="常见的内置装饰器.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包/常见的内置装饰器.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="318">
-              <caret line="42" column="33" lean-forward="true" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+              <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="廖雪峰的__slots__，和@property.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包/廖雪峰的__slots__，和@property.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -111,6 +123,8 @@
         <option value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包/自己理解的装饰器.py" />
         <option value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包/大神整理的装饰器的详解.py" />
         <option value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包/常见的内置装饰器.py" />
+        <option value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包/廖雪峰的@property.py" />
+        <option value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包/廖雪峰的__slots__，和@property.py" />
       </list>
     </option>
   </component>
@@ -231,7 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.常见的内置装饰器">
+  <component name="RunManager" selected="Python.廖雪峰的__slots__，和@property">
     <configuration name="常见的内置装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,44 +260,6 @@
       <module name="Knowledge-planet" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包/常见的内置装饰器.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="1，特殊方法（魔法方法）" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Knowledge-planet" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\python——cookbook——笔记\1，特殊方法（魔法方法）\1，特殊方法（魔法方法）.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Knowledge-planet" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包/装饰器.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -327,20 +303,58 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="廖雪峰的@property" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Knowledge-planet" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\python——cookbook——笔记\7，函数装饰器和闭包\廖雪峰的__slots__，和@property.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="廖雪峰的__slots__，和@property" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Knowledge-planet" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包/廖雪峰的__slots__，和@property.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.1，特殊方法（魔法方法）" />
-      <item index="1" class="java.lang.String" itemvalue="Python.装饰器" />
-      <item index="2" class="java.lang.String" itemvalue="Python.自己理解的装饰器" />
-      <item index="3" class="java.lang.String" itemvalue="Python.大神整理的装饰器的详解" />
-      <item index="4" class="java.lang.String" itemvalue="Python.常见的内置装饰器" />
+      <item index="0" class="java.lang.String" itemvalue="Python.自己理解的装饰器" />
+      <item index="1" class="java.lang.String" itemvalue="Python.大神整理的装饰器的详解" />
+      <item index="2" class="java.lang.String" itemvalue="Python.常见的内置装饰器" />
+      <item index="3" class="java.lang.String" itemvalue="Python.廖雪峰的@property" />
+      <item index="4" class="java.lang.String" itemvalue="Python.廖雪峰的__slots__，和@property" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.常见的内置装饰器" />
-        <item index="1" class="java.lang.String" itemvalue="Python.大神整理的装饰器的详解" />
-        <item index="2" class="java.lang.String" itemvalue="Python.自己理解的装饰器" />
-        <item index="3" class="java.lang.String" itemvalue="Python.装饰器" />
-        <item index="4" class="java.lang.String" itemvalue="Python.1，特殊方法（魔法方法）" />
+        <item index="0" class="java.lang.String" itemvalue="Python.廖雪峰的__slots__，和@property" />
+        <item index="1" class="java.lang.String" itemvalue="Python.廖雪峰的@property" />
+        <item index="2" class="java.lang.String" itemvalue="Python.常见的内置装饰器" />
+        <item index="3" class="java.lang.String" itemvalue="Python.大神整理的装饰器的详解" />
+        <item index="4" class="java.lang.String" itemvalue="Python.自己理解的装饰器" />
       </list>
     </recent_temporary>
   </component>
@@ -663,7 +677,15 @@
     <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包/常见的内置装饰器.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="318">
-          <caret line="42" column="33" lean-forward="true" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包/廖雪峰的__slots__，和@property.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
           <folding />
         </state>
       </provider>
