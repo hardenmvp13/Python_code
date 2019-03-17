@@ -420,6 +420,10 @@
   58. slice()　　切片功能
 
   59. sorted()　　排序
+                    sorted(iterable, /, *, key=None, reverse=False)
+                    立即返回一个新的列表，对一个可迭代对象的所有元素排序。
+                    key: 排序规则为key定义的函数
+                    reverse: 表示是否进行翻转排序
 
         >>> sorted([36,6,-12,9,-22])  列表排序
         [-22, -12, 6, 9, 36]
