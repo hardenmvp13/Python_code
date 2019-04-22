@@ -24,7 +24,18 @@ ret = {name: {
         'quantity': "7",
     } for log in logs_dict]
 } for name in name_dict}
-# print(ret)
-# {'AA': {'status': '1', 'crane_status': '2', 'material': '3', 'logs': [{'material': '6', 'quantity': '7'}, {'material': '6', 'quantity': '7'}]},
-# 'BB': {'status': '1', 'crane_status': '2', 'material': '3', 'logs': [{'material': '6', 'quantity': '7'}, {'material': '6', 'quantity': '7'}]},
-#  'CC': {'status': '1', 'crane_status': '2', 'material': '3', 'logs': [{'material': '6', 'quantity': '7'}, {'material': '6', 'quantity': '7'}]}}
+print(ret)
+'''
+{'AA': {'status': '1', 
+        'crane_status': '2', 
+        'material': '3', 
+        'logs': [{'material': '6', 'quantity': '7'}, {'material': '6', 'quantity': '7'}]}, 
+'BB': {'status': '1',
+        'crane_status': '2', 
+        'material': '3',
+         'logs': [{'material': '6', 'quantity': '7'}, {'material': '6', 'quantity': '7'}]},
+ 'CC': {'status': '1',
+        'crane_status': '2',
+         'material': '3',
+          'logs': [{'material': '6', 'quantity': '7'}, {'material': '6', 'quantity': '7'}]}}
+'''
