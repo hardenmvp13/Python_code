@@ -6,19 +6,25 @@ python的几个内置装饰器：@staticmethod、@classmethod和@property
 @property：    属性方法    讲一个类方法转化成一个类的属性，只读属性
 
 '''
+
+
 class TestClass(object):
     name = "玩具"
+
     def __init__(self, name):
         self.name = name
+
     def objPrint(self, xy):
-        print("%s 是实例化方法：%s"%(self.name, xy))
+        print("%s 是实例化方法：%s" % (self.name, xy))
+
     @classmethod
-    def classPrint(cls,xy):
-        print("%s 是类方法，只能调用类变量： %s"%(cls, xy))
+    def classPrint(cls, xy):
+        print("%s 是类方法，只能调用类变量： %s" % (cls, xy))
         print("%s 是类方法，只能调用类变量： %s" % (cls.name, xy))
+
     @staticmethod
     def staticPrint(xy):
-        print("静态方法：%s"%xy)
+        print("静态方法：%s" % xy)
 # obj = TestClass("食物")
 # obj.objPrint("方便面")
 # TestClass.classPrint("火腿肠")
@@ -29,21 +35,26 @@ class TestClass(object):
 # 玩具 是类方法，只能调用类变量： 火腿肠
 # 静态方法：面包
 
+
 '''接着来看@property'''
+
+
 class TestClass1(object):
     def __init__(self, name):
         self.name = name
         self.__food = None
+
     @property
     def renwu(self):
-        print("%s is eating %s:"%(self.name, self.__food))
+        print("%s is eating %s:" % (self.name, self.__food))
 
     @renwu.setter
     def renwu(self, food):
-        print("set to food",food)
+        print("set to food", food)
         self.__food = food
 
-a =  TestClass1("王刚")
+
+a = TestClass1("王刚")
 a.renwu
 a.renwu = "火腿肠"
 a.renwu()
@@ -51,4 +62,3 @@ a.renwu()
 # 王刚 is eating None:
 # set to food 火腿肠
 # 王刚 is eating 火腿肠:
-
