@@ -205,9 +205,9 @@
         
         >>True
         >>False
-  11,isalpha()   检测字符串是否只由字母组成
+  11,isalpha()   检测字符串是否只由字母组成   #alpha：阿尔法
        
-  12,isdigit()   检测字符串是否只由数字组成
+  12,isdigit()   检测字符串是否只由数字组成   #digit：数字，注意是只由
 
   13,islower()   检测字符串是否由小写字母组成,是则返回 True，否则返回 False
 
