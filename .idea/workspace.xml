@@ -36,18 +36,7 @@
     <SUITE FILE_PATH="coverage/Python_code$__2_.coverage" NAME="特殊方法（魔法方法） (2) Coverage Results" MODIFIED="1552751049785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python_cookbook_读书笔记/1,特殊方法（魔法方法）" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="基础.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python知识体系/1，基础知识/1.1，python解释器/基础.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -161,14 +150,24 @@
               <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_code" type="462c0819:PsiDirectoryNode" />
               <item name="python知识体系" type="462c0819:PsiDirectoryNode" />
-              <item name="1，基础知识" type="462c0819:PsiDirectoryNode" />
+              <item name="2，数据结构" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_code" type="462c0819:PsiDirectoryNode" />
-              <item name="python知识体系" type="462c0819:PsiDirectoryNode" />
-              <item name="1，基础知识" type="462c0819:PsiDirectoryNode" />
-              <item name="1.1，python解释器" type="462c0819:PsiDirectoryNode" />
+              <item name="笔记" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_code" type="462c0819:PsiDirectoryNode" />
+              <item name="笔记" type="462c0819:PsiDirectoryNode" />
+              <item name="内置函数" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_code" type="462c0819:PsiDirectoryNode" />
+              <item name="笔记" type="462c0819:PsiDirectoryNode" />
+              <item name="集合" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -182,6 +181,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\2，数据结构\2.7，内置函数" />
+      <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\2，数据结构\2.4，集合" />
+      <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\2，数据结构\2.3，字典" />
+      <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\2，数据结构\2.2，元组" />
+      <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\2，数据结构\2.1，列表" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\python练习代码\python笔记\Python_code\笔记\运算符" />
       <recent name="D:\python练习代码\python笔记\Python_code\老男孩python全栈_笔记\day1" />
@@ -360,7 +366,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -368,7 +373,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.064914994" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27202472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25555557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25555557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -433,48 +438,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/调试/debug.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/调试/调试.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/455005672/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62590">
-          <caret line="2845" column="8" lean-forward="false" selection-start-line="2845" selection-start-column="8" selection-end-line="2845" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37004">
-          <caret line="1682" column="0" lean-forward="false" selection-start-line="1682" selection-start-column="0" selection-end-line="1682" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/数据可视化/Python绘图之matplotlib基本语法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="71" column="10" lean-forward="false" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/补充以及强化知识点/创建对象的流程-带有__init__方法.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -799,10 +762,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.1，列表/元组内置函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.7，内置函数/内置函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.4，集合/集合.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.3，字典/字典内置函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.2，元组/元组内置函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.1，列表/列表内置函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/python知识体系/1，基础知识/1.1，python解释器/基础.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
-          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <caret line="1" column="29" lean-forward="true" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
           <folding />
         </state>
       </provider>
