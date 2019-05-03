@@ -24,8 +24,8 @@
     <SUITE FILE_PATH="coverage/Python_code$5.coverage" NAME="5步搞清函数参数传递 Coverage Results" MODIFIED="1556878960518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python知识体系/3，函数/3.3，函数参数" />
     <SUITE FILE_PATH="coverage/Python_code$mysqlpymysql.coverage" NAME="mysql（pymysql） Coverage Results" MODIFIED="1552376349998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python核心编程/python 使用mysql/数据库刷题" />
     <SUITE FILE_PATH="coverage/Python_code$threadthreading.coverage" NAME="thread，threading的使用 Coverage Results" MODIFIED="1552205941312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程" />
-    <SUITE FILE_PATH="coverage/Python_code$os.coverage" NAME="os模块总结 Coverage Results" MODIFIED="1556904109553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python知识体系/7，OS" />
-    <SUITE FILE_PATH="coverage/Python_code$.coverage" NAME="多线程 Coverage Results" MODIFIED="1556905661911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python知识体系/5，控制流程/5.4，进程，线程" />
+    <SUITE FILE_PATH="coverage/Python_code$os.coverage" NAME="os模块总结 Coverage Results" MODIFIED="1556906455296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python知识体系/7，OS" />
+    <SUITE FILE_PATH="coverage/Python_code$.coverage" NAME="多进程 Coverage Results" MODIFIED="1556906711740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python知识体系/5，控制流程/5.4，进程，线程" />
     <SUITE FILE_PATH="coverage/Python_code$pandas.coverage" NAME="pandas操作 Coverage Results" MODIFIED="1552809146803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/pandas" />
     <SUITE FILE_PATH="coverage/Python_code$day1.coverage" NAME="day1 Coverage Results" MODIFIED="1556773591050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/老男孩python全栈_笔记" />
     <SUITE FILE_PATH="coverage/Python_code$day1__1_.coverage" NAME="day1 (1) Coverage Results" MODIFIED="1556794987095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/老男孩python全栈_笔记/day1" />
@@ -42,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/python知识体系/5，控制流程/5.2，生成器/生成器.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -51,18 +51,18 @@
       <file leaf-file-name="os模块总结.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python知识体系/7，OS/os模块总结.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="814">
-              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+            <state relative-caret-position="377">
+              <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="多线程.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="多线程.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python知识体系/5，控制流程/5.4，进程，线程/多线程.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="219" column="25" lean-forward="true" selection-start-line="219" selection-start-column="25" selection-end-line="219" selection-end-column="25" />
+              <caret line="219" column="25" lean-forward="false" selection-start-line="219" selection-start-column="25" selection-end-line="219" selection-end-column="25" />
               <folding>
                 <element signature="e#670#686#0" expanded="true" />
               </folding>
@@ -70,12 +70,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="多进程.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="多进程.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python知识体系/5，控制流程/5.4，进程，线程/多进程.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="355">
+              <caret line="62" column="23" lean-forward="true" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
+              <folding>
+                <element signature="e#343#378#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -148,9 +150,9 @@
         <option value="$PROJECT_DIR$/python知识体系/6，文件处理/6.1，文件处理.py" />
         <option value="$PROJECT_DIR$/python知识体系/1，基础知识/1.1，python解释器/基础.py" />
         <option value="$PROJECT_DIR$/python知识体系/5，控制流程/5.4，进程，线程/进程.py" />
+        <option value="$PROJECT_DIR$/python知识体系/5，控制流程/5.4，进程，线程/多线程.py" />
         <option value="$PROJECT_DIR$/python知识体系/7，OS/os模块总结.py" />
         <option value="$PROJECT_DIR$/python知识体系/5，控制流程/5.4，进程，线程/多进程.py" />
-        <option value="$PROJECT_DIR$/python知识体系/5，控制流程/5.4，进程，线程/多线程.py" />
       </list>
     </option>
   </component>
@@ -206,6 +208,12 @@
               <item name="5，控制流程" type="462c0819:PsiDirectoryNode" />
               <item name="5.4，进程，线程" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_code" type="462c0819:PsiDirectoryNode" />
+              <item name="python知识体系" type="462c0819:PsiDirectoryNode" />
+              <item name="7，OS" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -247,21 +255,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.多线程">
-    <configuration name="字典练习" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.多进程">
+    <configuration name="多进程" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/补充以及强化知识点/练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python知识体系/5，控制流程/5.4，进程，线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Knowledge-planet" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/补充以及强化知识点/练习/字典练习.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python知识体系/5，控制流程/5.4，进程，线程/多进程.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -401,18 +409,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.字典练习" />
-      <item index="1" class="java.lang.String" itemvalue="Python.5步搞清函数参数传递" />
-      <item index="2" class="java.lang.String" itemvalue="Python.1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.os模块总结" />
-      <item index="4" class="java.lang.String" itemvalue="Python.多线程" />
+      <item index="0" class="java.lang.String" itemvalue="Python.5步搞清函数参数传递" />
+      <item index="1" class="java.lang.String" itemvalue="Python.1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.os模块总结" />
+      <item index="3" class="java.lang.String" itemvalue="Python.多线程" />
+      <item index="4" class="java.lang.String" itemvalue="Python.多进程" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.多线程" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.多进程" />
         <item index="1" class="java.lang.String" itemvalue="Python.os模块总结" />
-        <item index="2" class="java.lang.String" itemvalue="Python.1" />
-        <item index="3" class="java.lang.String" itemvalue="Python.5步搞清函数参数传递" />
+        <item index="2" class="java.lang.String" itemvalue="Python.多线程" />
+        <item index="3" class="java.lang.String" itemvalue="Python.1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.5步搞清函数参数传递" />
       </list>
     </recent_temporary>
   </component>
@@ -446,7 +455,7 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14837712" sideWeight="0.5031746" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5625966" sideWeight="0.4968254" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49304482" sideWeight="0.4968254" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34621328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -852,7 +861,7 @@
     <entry file="file://$PROJECT_DIR$/python知识体系/5，控制流程/5.2，生成器/生成器.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -867,16 +876,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python知识体系/7，OS/os模块总结.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python知识体系/5，控制流程/5.4，进程，线程/多进程.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="377">
+          <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -884,9 +885,19 @@
     <entry file="file://$PROJECT_DIR$/python知识体系/5，控制流程/5.4，进程，线程/多线程.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="219" column="25" lean-forward="true" selection-start-line="219" selection-start-column="25" selection-end-line="219" selection-end-column="25" />
+          <caret line="219" column="25" lean-forward="false" selection-start-line="219" selection-start-column="25" selection-end-line="219" selection-end-column="25" />
           <folding>
             <element signature="e#670#686#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/5，控制流程/5.4，进程，线程/多进程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="62" column="23" lean-forward="true" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
+          <folding>
+            <element signature="e#343#378#0" expanded="true" />
           </folding>
         </state>
       </provider>

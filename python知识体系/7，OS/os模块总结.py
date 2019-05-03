@@ -35,3 +35,4 @@ print(os.getcwd())
 path = r'D:\python练习代码\python笔记\Python_code\python知识体系\7，OS'
 print(os.path.getatime(path))
 # 1556904109.5178385
+print(os.getpid())
