@@ -17,12 +17,12 @@ print(aList[4:6])
 # ['A', 'B']
 
 # (4),列表的嵌套     列表支持嵌套，就是列表里面可以套列表，甚至套字典，元组等
-bList=[100,200,['aaa','bbb','ccc']]
+bList = [100, 200, ['aaa', 'bbb', 'ccc']]
 print(bList[2][0])
 # aaa
 
 # (5)列表的插入  内置函数append,insert
-alist = ['a',10,15,'b','c','d']
+alist = ['a', 10, 15, 'b', 'c', 'd']
 alist[1] = 'f'
 print(alist)
 # ['a', 'f', 15, 'b', 'c', 'd']
@@ -31,13 +31,13 @@ alist.append('e')
 print(alist)
 # ['a', 'f', 15, 'b', 'c', 'd', 'e']
 
-alist.insert(2,'g')
+alist.insert(2, 'g')
 print(alist)
 # ['a', 'f', 'g', 15, 'b', 'c', 'd', 'e']
 
 # (6),列表的删除     内置remove,pop函数
 # 如果知道要删除对象在列表的里面的位置，比如'a'在alist = ['a',10,15,'b','c','d']的第0个位置
-alist = ['a',10,15,'b','c','d']
+alist = ['a', 10, 15, 'b', 'c', 'd']
 del alist[0]
 print(alist)
 # [10, 15, 'b', 'c', 'd']
@@ -53,33 +53,33 @@ print(alist)
 # [10, 15, 'c']
 
 # (7),列表支持*，+
-list1=[1,2,3]
-list2=[100,200,300]
-list3=list1+list2
+list1 = [1, 2, 3]
+list2 = [100, 200, 300]
+list3 = list1 + list2
 print(list3)
 # [1, 2, 3, 100, 200, 300]
 
-list4=['a','b','c']
-list5=list4*3
+list4 = ['a', 'b', 'c']
+list5 = list4 * 3
 print(list5)
 # ['a', 'b', 'c', 'a', 'b', 'c', 'a', 'b', 'c']
 
 # (8)列表的排序//内置了sort函数非常方便,通过传入reverse为True或者False来升序或者降序排列
-blist = [2,65,2,3,56,23,5622,-5,226,89]
+blist = [2, 65, 2, 3, 56, 23, 5622, -5, 226, 89]
 blist.sort(reverse=True)
 print(blist)
 # [5622, 226, 89, 65, 56, 23, 3, 2, 2, -5]
-blist.sort(reverse=False) #默认升序
+blist.sort(reverse=False)  # 默认升序
 print(blist)
 # [-5, 2, 2, 3, 23, 56, 65, 89, 226, 5622]
 
 # (9)计算列表的长度 //利用内置函数len()
-aList=[1,2,3,4,5]
+aList = [1, 2, 3, 4, 5]
 print(len(aList))
 # 5
 
 # (10),计算列表里面的最大值，最小值
-aList=[1,2,3,4,5]
+aList = [1, 2, 3, 4, 5]
 print(min(aList))
 # 1
 print(max(aList))
@@ -88,19 +88,19 @@ print(max(aList))
 
 
 # (11),列表的扩展 //用内置extend函数，看起来和+差不多，其实区别在于+是返回一个新的列表，而extend是直接修改了列表
-aList=[1,2,3]
-b=[4,5,6]
+aList = [1, 2, 3]
+b = [4, 5, 6]
 aList.extend(b)
 print(aList)
 # [1, 2, 3, 4, 5, 6]
 
 # (12),查找列表中某一个元素的索引//内置函数index
-aList=['This','is','a','very','good','idea']
+aList = ['This', 'is', 'a', 'very', 'good', 'idea']
 print(alist.index('very'))
 # 3
 
 # (13),统计某个元组在列表里面的次数,内置函数count
-aList=['to','do','or','not','to','do']
+aList = ['to', 'do', 'or', 'not', 'to', 'do']
 print(aList.count('to'))
 # 2
 
@@ -117,7 +117,3 @@ print(aTuple)
 有一些特殊的场合需要不可变序列，比如后面会讲道的数据结构字典，必须要用不可变序列作为键值，而列表不行。
 有一些内建的函数的返回值，也必须是元组.
 '''
-
-
-
-
