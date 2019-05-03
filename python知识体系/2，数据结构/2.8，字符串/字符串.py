@@ -1,33 +1,28 @@
 '''
 ##############一，创建空白字符串##############
-    string = ' '
 '''
+string = ' '
 
 '''
 ##############二,访问字符串中的值#############
-
-    var1 = 'Hello World!'
-    var2 = "Runoob"
-    print("var1[0]: ", var1[0])
-    print("var2[1:5]: ", var2[1:5])
-    
-    >>var1[0]:  H
-    >>var2[1:5]:  unoo
 '''
+var1 = 'Hello World!'
+var2 = "Runoob"
+print("var1[0]: ", var1[0])
+print("var2[1:5]: ", var2[1:5])
+# var1[0]:  H
+# var2[1:5]:  unoo
 
 '''
 ###############三，字符串更新#################
 截取字符串的一部分并与其他字段拼接
-
-    var1 = 'Hello World!'
-    print("已更新字符串 : ", var1[:6] + 'Runoob!')
-    
-    >>已更新字符串 :  Hello Runoob!
 '''
+var1 = 'Hello World!'
+print("已更新字符串 : ", var1[:6] + 'Runoob!')
+# 已更新字符串 :  Hello Runoob!
 
 '''
 #############四,Python转义字符#################
-
     转义字符	    描述
     \(在行尾时)	  续行符
     \\	         反斜杠符号
@@ -46,7 +41,6 @@
 
 '''
 ################五,Python字符串运算符####################
-
     操作符	       描述	                                             实例
     +	       字符串连接	                                     a + b 输出结果： HelloPython
     *	     重复输出字符串               	                     a*2 输出结果：HelloHello
@@ -60,12 +54,11 @@
 
 '''
 ##################六,Python字符串格式化#########################
-
     Python 支持格式化字符串的输出 。尽管这样可能会用到非常复杂的表达式，
     但最基本的用法是将一个值插入到一个有字符串格式符 %s 的字符串中。
     在 Python 中，字符串格式化使用与 C 中 sprintf 函数一样的语法。
     python字符串格式化符号:
-    符   号	      描述
+     符号	      描述
       %c	 格式化字符及其ASCII码
       %s	 格式化字符串
       %d	 格式化整数
@@ -79,123 +72,124 @@
       %g	 %f和%e的简写
       %G	 %f 和 %E 的简写
       %p	 用十六进制数格式化变量的地址
-        
-        print ("我叫 %s 今年 %d 岁!" % ('小明', 10))
-        >>输出：我叫 小明 今年 10 岁!
 '''
+print("我叫 %s 今年 %d 岁!" % ('小明', 10))
+# 我叫小明今年10岁!
 
 '''
 #############################七,Python 的字符串内建函数##############################
+'''
+'''
+1 ,capitalize()     将字符串的第一个字符转换为大写
+'''
+str = "this is string example from runoob....wow!!!"
+print ("str.capitalize() : ", str.capitalize())
+# str.capitalize() :  This is string example from runoob....wow!!!
 
-  1 ,capitalize()     将字符串的第一个字符转换为大写
+'''
+2,center(width, fillchar)  返回一个指定的宽度 width 居中的字符串，fillchar 为填充的字符，默认为空格。
+                           width -- 字符串的总宽度。
+                           fillchar -- 填充字符。
+'''
+str = "[www.runoob.com]"
+print ("str.center(40, '*') : ", str.center(40, '*'))
+# str.center(40, '*') :  ************[www.runoob.com]************
 
-        str = "this is string example from runoob....wow!!!"
-        print ("str.capitalize() : ", str.capitalize())
-        
-        >>输出结果： str.capitalize() :  This is string example from runoob....wow!!!
+'''
+3,count(str, beg= 0,end=len(string))
+            返回 str 在 string 里面出现的次数，如果 beg 或者 end 指定则返回指定范围内 str 出现的次数
+            sub -- 搜索的子字符串
+            start -- 字符串开始搜索的位置。默认为第一个字符,第一个字符索引值为0。
+            end -- 字符串中结束搜索的位置。字符中第一个字符的索引为 0。默认为字符串的最后一个位置。
+'''
+str = "www.runoob.com"
+sub = 'o'
+print ("str.count('o') : ", str.count(sub))
+sub = 'run'
+print ("str.count('run', 0, 10) : ", str.count(sub,0,10))
+#  str.count('o') :  3
+#  str.count('run', 0, 10) :  1
 
-  2,center(width, fillchar)    返回一个指定的宽度 width 居中的字符串，fillchar 为填充的字符，默认为空格。
-                               width -- 字符串的总宽度。
-                               fillchar -- 填充字符。
+'''
+4,bytes.decode(encoding="utf-8", errors="strict")
+          Python3 中没有 decode 方法，但我们可以使用 bytes 对象的 decode() 方法来解码给定的 bytes 对象，
+          这个 bytes 对象可以由 str.encode() 来编码返回。
+'''
+str = "菜鸟教程";
+str_utf8 = str.encode("UTF-8")
+str_gbk = str.encode("GBK")
+print(str)
+print("UTF-8 编码：", str_utf8)
+print("GBK 编码：", str_gbk)
+print("UTF-8 解码：", str_utf8.decode('UTF-8', 'strict'))
+print("GBK 解码：", str_gbk.decode('GBK', 'strict'))
+# 菜鸟教程
+# UTF-8 编码： b'\xe8\x8f\x9c\xe9\xb8\x9f\xe6\x95\x99\xe7\xa8\x8b'
+# GBK 编码：   b'\xb2\xcb\xc4\xf1\xbd\xcc\xb3\xcc'
+# UTF-8 解码： 菜鸟教程
+# GBK 解码：   菜鸟教程
 
-        str = "[www.runoob.com]"
-        print ("str.center(40, '*') : ", str.center(40, '*'))
-        
-        >>输出结果：str.center(40, '*') :  ************[www.runoob.com]************
+'''
+5,encode(encoding='UTF-8',errors='strict')
+          以 encoding 指定的编码格式编码字符串，如果出错默认报一个ValueError 的异常，
+          除非 errors 指定的是'ignore'或者'replace'
+  例子同上
+'''
+'''
+6，endswith(suffix, beg=0, end=len(string))
+           用法：str.endswith(suffix[, start[, end]])
+           用于判断字符串是否以指定后缀结尾，如果以指定后缀结尾返回True，否则返回False。
+           可选参数"start"与"end"为检索字符串的开始与结束位置。
+'''
+Str='Runoob example....wow!!!'
+suffix='!!'
+print (Str.endswith(suffix))
+print (Str.endswith(suffix,20))
+suffix='run'
+print (Str.endswith(suffix))
+print (Str.endswith(suffix, 0, 19))
+# True
+# True
+# False
+# False
 
-  3,count(str, beg= 0,end=len(string))
-                    返回 str 在 string 里面出现的次数，如果 beg 或者 end 指定则返回指定范围内 str 出现的次数
-                    sub -- 搜索的子字符串
-                    start -- 字符串开始搜索的位置。默认为第一个字符,第一个字符索引值为0。
-                    end -- 字符串中结束搜索的位置。字符中第一个字符的索引为 0。默认为字符串的最后一个位置。
-        str="www.runoob.com"
-        sub='o'
-        print ("str.count('o') : ", str.count(sub))
-        sub='run'
-        print ("str.count('run', 0, 10) : ", str.count(sub,0,10))
-        
-        >>str.count('o') :  3
-        >>str.count('run', 0, 10) :  1
+'''
+7，expandtabs(tabsize=8)  把字符串 string 中的 tab 符号转为空格，tab 符号默认的空格数是 8 。(略)
+'''
 
-  4,bytes.decode(encoding="utf-8", errors="strict")
-              Python3 中没有 decode 方法，但我们可以使用 bytes 对象的 decode() 方法来解码给定的 bytes 对象，
-              这个 bytes 对象可以由 str.encode() 来编码返回。
-
-        str = "菜鸟教程";
-        str_utf8 = str.encode("UTF-8")
-        str_gbk = str.encode("GBK")
-        print(str)
-        print("UTF-8 编码：", str_utf8)
-        print("GBK 编码：", str_gbk)
-        print("UTF-8 解码：", str_utf8.decode('UTF-8', 'strict'))
-        print("GBK 解码：", str_gbk.decode('GBK', 'strict'))
-        
-        输出结果为：
-                菜鸟教程
-                UTF-8 编码： b'\xe8\x8f\x9c\xe9\xb8\x9f\xe6\x95\x99\xe7\xa8\x8b'
-                GBK 编码：   b'\xb2\xcb\xc4\xf1\xbd\xcc\xb3\xcc'
-                UTF-8 解码： 菜鸟教程
-                GBK 解码：   菜鸟教程
-
-  5,encode(encoding='UTF-8',errors='strict')
-              以 encoding 指定的编码格式编码字符串，如果出错默认报一个ValueError 的异常，
-              除非 errors 指定的是'ignore'或者'replace'
-  
-      例子同上
-
-  6，endswith(suffix, beg=0, end=len(string))
-               用法：str.endswith(suffix[, start[, end]])
-               用于判断字符串是否以指定后缀结尾，如果以指定后缀结尾返回True，否则返回False。
-               可选参数"start"与"end"为检索字符串的开始与结束位置。
-
-        Str='Runoob example....wow!!!'
-        suffix='!!'
-        print (Str.endswith(suffix))
-        print (Str.endswith(suffix,20))
-        
-        suffix='run'
-        print (Str.endswith(suffix))
-        print (Str.endswith(suffix, 0, 19))
-        
-        >>True
-        >>True
-        >>False
-        >>False
-        
-  7，expandtabs(tabsize=8)  把字符串 string 中的 tab 符号转为空格，tab 符号默认的空格数是 8 。(略)
-
+'''
   8,find(str, beg=0 end=len(string))
          检测 str 是否包含在字符串中，如果指定范围 beg 和 end ，则检查是否包含在指定范围内，
          返回值：如果包含返回开始的索引值，否则返回-1
              str -- 指定检索的字符串
              beg -- 开始索引，默认为0。
              end -- 结束索引，默认为字符串的长度。
+'''
+str1 = "Runoob example....wow!!!"
+str2 = "exam";
+print(str1.find(str2))
+print(str1.find(str2, 5))
+print(str1.find(str2, 10))
+# 7
+# 7
+# -1
 
-        str1 = "Runoob example....wow!!!"
-        str2 = "exam";
-        print(str1.find(str2))
-        print(str1.find(str2, 5))
-        print(str1.find(str2, 10))
-        
-        >>7
-        >>7
-        >>-1
+'''
+9,index(str, beg=0, end=len(string))  跟find()方法一样，只不过如果str不在字符串中会报一个异常.
+'''
+str1 = "Runoob example....wow!!!"
+str2 = "exam";
+print (str1.index(str2))
+print (str1.index(str2, 5))
+print (str1.index(str2, 10))
 
-  9,index(str, beg=0, end=len(string))  跟find()方法一样，只不过如果str不在字符串中会报一个异常.
+# 7
+# 7
+#   File "D:/python练习代码/知识星球/Knowledge-planet/补充以及强化知识点/字符串.py", line 217, in <module>
+#       print (str1.index(str2, 10))
+#     ValueError: substring not found
 
-        str1 = "Runoob example....wow!!!"
-        str2 = "exam";
-        print (str1.index(str2))
-        print (str1.index(str2, 5))
-        print (str1.index(str2, 10))
-
-        输出结果为：(未发现的会出现异常信息)：
-        >>7
-        >>7
-        >>  File "D:/python练习代码/知识星球/Knowledge-planet/补充以及强化知识点/字符串.py", line 217, in <module>
-              print (str1.index(str2, 10))
-            ValueError: substring not found
-
+'''
   10，isalnum()  检测字符串是否由字母和数字组成,是返回 True,否则返回 False
 
         str = "runoob2016"  # 字符串没有空格
