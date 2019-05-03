@@ -37,18 +37,7 @@
     <SUITE FILE_PATH="coverage/Python_code$try__expert.coverage" NAME="try  expert Coverage Results" MODIFIED="1552376634145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="6.1，文件处理.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python知识体系/6，文件处理/6.1，文件处理.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -167,12 +156,6 @@
               <item name="python知识体系" type="462c0819:PsiDirectoryNode" />
               <item name="1，基础知识" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_code" type="462c0819:PsiDirectoryNode" />
-              <item name="python知识体系" type="462c0819:PsiDirectoryNode" />
-              <item name="3，函数" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -195,11 +178,11 @@
       <recent name="D:\python练习代码\python笔记\Python_code\笔记\运算符" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\python练习代码\python笔记\Python_code\笔记\字符串" />
-      <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\3，函数\3.3，函数参数" />
+      <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\1，基础知识\1.5，运算" />
+      <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\5，控制流程\5.2，生成器" />
+      <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\3，函数\3.2，函数作用域" />
       <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\2，数据结构\2.7，内置函数" />
-      <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\2，数据结构\2.4，集合" />
-      <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\2，数据结构\2.3，字典" />
+      <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\3，函数\3.4，高阶函数" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -439,19 +422,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/容易犯错的坑.py" />
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/练习/字典练习.py" />
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/内置函数/常用的内置函数.py" />
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/练习/验证.py" />
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/numpy/numpy基本语法.py" />
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/os/os.py" />
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包/常见的内置装饰器.py" />
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/excel.py" />
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包/大神整理的装饰器的详解.py" />
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/内置函数/内置函数.py" />
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python核心编程——读书笔记/python 使用mysql/数据库刷题/mysql 增删查补更.py" />
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python核心编程——读书笔记/python 使用mysql/数据库刷题/mysql_python.py" />
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/python核心编程——读书笔记/python 使用mysql/数据库刷题/mysql（pymysql）.py" />
     <entry file="file://$PROJECT_DIR$/老男孩python全栈_笔记/django/学员管理（65日）.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="577">
@@ -595,13 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/笔记/函数/5步搞清函数参数传递.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1716">
-          <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.8，字符串/字符串.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1455">
@@ -709,10 +672,122 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/3，函数/3.4，高阶函数/map，reduce，filter，sorted，zip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.7，内置函数/map，reduce，filter，sorted，zip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/3，函数/3.2，函数作用域/如何避开变量作用域的陷阱.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/5，控制流程/5.2，生成器/生成器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/生成器/生成器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/函数/如何避开变量作用域的陷阱.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/函数/ceshi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/函数/5步搞清函数参数传递.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/函数式编程/高阶函数/map，reduce，filter，sorted，zip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/python知识体系/6，文件处理/6.1，文件处理.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/1，基础知识/1.5，运算/运算符以及数字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/break 和 continue 的区别.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/容易犯错的坑.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-811">
+          <caret line="56" column="11" lean-forward="true" selection-start-line="56" selection-start-column="11" selection-end-line="56" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/try  except.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

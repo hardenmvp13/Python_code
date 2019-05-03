@@ -6,12 +6,16 @@ python语言里面有一些小的坑，特别容易弄混弄错
 '''
 # 初学者对Python语言不是特别了解的话，又正好有c++,java的语言背景，很容易把++i和i+=1弄混
 # 先来看一个小例子：
+
+
 def function():
-    i=0
-    mylist=[1,2,3,4,5,6]
-    while i <len(mylist):
+    i = 0
+    mylist = [1, 2, 3, 4, 5, 6]
+    while i < len(mylist):
         print(mylist[i])
         ++i
+
+
 # 这段代码会想当然的认为，没有啥问题啊，一个循环输出，i不断的+1，蛮对的呀.
 # 其实不是的，这个代码会一直输出1,一个死循环.因为Python的解释器会将++i操作为+(+i).
 # 其中+表示是正数符号,对于--i也是类似的.
@@ -28,37 +32,37 @@ print(+++1)
 '''
 # 在判断字符串是否相等的时候，初学者特别会弄混is和==,这样的结果是程序在不同的情况下表现不同：
 # 比如先看一个简单的例子:
-a='Hi'
-b='Hi'
+a = 'Hi'
+b = 'Hi'
 print(a is b)
 # >>>True
-print(a==b)
+print(a == b)
 # >>>True #看起来is和==好像是一样的
 
 # 我们再看第二个例子:
-str1='Wo shi yi ge chi huo'
-str2='Wo shi yi ge chi huo'
+str1 = 'Wo shi yi ge chi huo'
+str2 = 'Wo shi yi ge chi huo'
 print(str1 is str2)
 # >>>False#is的结果是False
-print(str1==str2)
+print(str1 == str2)
 # >>>True #==的结果为True,看二者不一样了吧
 
 
 # 第三个例子
-str3='string'
-str4=''.join(['s','t','r','i','n','g'])
+str3 = 'string'
+str4 = ''.join(['s', 't', 'r', 'i', 'n', 'g'])
 print(str3)
 # >>>string
 print(str4)
 # >>>string
 print(str3 is str4)
 # >>>False  #is的结果是False
-print(str3==str4)
+print(str3 == str4)
 # >>>True   #==的结果为True,看二者不一样了吧
 
 # 这就是很容易混淆初学者的地方，感觉很奇怪，为什么有的时候is和==输出相同，有的时候不同呢.好我们来一探究竟：
 # 我们用内置的id()这函数，这个函数用来返回对象的内存地址，查一下就清楚了
-#结果发现
+# 结果发现
 # is是对象的标示符,用来比较两个对象的内存空间是不是一样，是不是用的同一块空间地址，
 # 而==是比较两个对象的内容是否相等.
 
@@ -69,13 +73,13 @@ print(str3==str4)
 # 它是不可变对象,一旦创建不能改变.
 
 # 用+连接字符串:
-str1,str2,str3='test','string','connection'
-print(str1+str2+str3)
+str1, str2, str3 = 'test', 'string', 'connection'
+print(str1 + str2 + str3)
 # >>>test string connection
 
 # 用join连接字符串
-str1,str2,str3='test ','string ','connection'
-print(''.join([str1,str2,str3]))
+str1, str2, str3 = 'test ', 'string ', 'connection'
+print(''.join([str1, str2, str3]))
 # >>>test string connection
 
 # 但是若是连接大规模的字符串，比如要连接10万左右的字符串的时候，join的方法效率就会快很多(甚至相差百倍).比如下面这10万个字符串连接.
@@ -91,9 +95,9 @@ print(''.join([str1,str2,str3]))
 
 # Python 提供了一种很多编程语言都不支持的功能，那就是可以在循环内部的语句块后面直接编写else 块。比如:
 for i in range(3):
-	print('Loop %d'%i)
+    print('Loop %d' % i)
 else:
-	print('Else block')
+    print('Else block')
 # >>>Loop 0
 # >>>Loop 1
 # >>>Loop 2
