@@ -10,38 +10,69 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python_code$_property.coverage" NAME="廖雪峰的@property Coverage Results" MODIFIED="1552803114646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包" />
+    <SUITE FILE_PATH="coverage/Python_code$debug.coverage" NAME="debug Coverage Results" MODIFIED="1552204365062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/调试" />
+    <SUITE FILE_PATH="coverage/Python_code$thread.coverage" NAME="使用thread模块 Coverage Results" MODIFIED="1552207038881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程" />
+    <SUITE FILE_PATH="coverage/Python_code$__slots___property.coverage" NAME="廖雪峰的__slots__，和@property Coverage Results" MODIFIED="1552805156799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包" />
+    <SUITE FILE_PATH="coverage/Python_code$excel.coverage" NAME="excel Coverage Results" MODIFIED="1556035152863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点" />
+    <SUITE FILE_PATH="coverage/Python_code$day8.coverage" NAME="day8 Coverage Results" MODIFIED="1556815389539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/老男孩python全栈_笔记/day8_文件操作" />
+    <SUITE FILE_PATH="coverage/Python_code$mapreducefiltersorted.coverage" NAME="map，reduce，filter，sorted Coverage Results" MODIFIED="1552806957597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/函数式编程/高阶函数/map" />
+    <SUITE FILE_PATH="coverage/Python_code$__2_.coverage" NAME="特殊方法（魔法方法） (2) Coverage Results" MODIFIED="1552751049785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python_cookbook_读书笔记/1,特殊方法（魔法方法）" />
     <SUITE FILE_PATH="coverage/Python_code$mapreducefiltersortedzip.coverage" NAME="map，reduce，filter，sorted，zip Coverage Results" MODIFIED="1552807769807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/函数式编程/高阶函数/map" />
     <SUITE FILE_PATH="coverage/Python_code$Doctests_in_.coverage" NAME="Doctests in 内置函数 Coverage Results" MODIFIED="1556816657237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/笔记/内置函数" />
     <SUITE FILE_PATH="coverage/Python_code$Exercise.coverage" NAME="Exercise Coverage Results" MODIFIED="1553066518967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/练习" />
+    <SUITE FILE_PATH="coverage/Python_code$5.coverage" NAME="5步搞清函数参数传递 Coverage Results" MODIFIED="1556878960518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python知识体系/3，函数/3.3，函数参数" />
     <SUITE FILE_PATH="coverage/Python_code$mysqlpymysql.coverage" NAME="mysql（pymysql） Coverage Results" MODIFIED="1552376349998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python核心编程/python 使用mysql/数据库刷题" />
     <SUITE FILE_PATH="coverage/Python_code$threadthreading.coverage" NAME="thread，threading的使用 Coverage Results" MODIFIED="1552205941312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程" />
-    <SUITE FILE_PATH="coverage/Python_code$_property.coverage" NAME="廖雪峰的@property Coverage Results" MODIFIED="1552803114646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包" />
     <SUITE FILE_PATH="coverage/Python_code$os.coverage" NAME="os Coverage Results" MODIFIED="1555958087435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/os" />
-    <SUITE FILE_PATH="coverage/Python_code$debug.coverage" NAME="debug Coverage Results" MODIFIED="1552204365062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/调试" />
-    <SUITE FILE_PATH="coverage/Python_code$.coverage" NAME="基础 Coverage Results" MODIFIED="1556862182624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python知识体系/1，基础知识/1.1，python解释器" />
+    <SUITE FILE_PATH="coverage/Python_code$.coverage" NAME="列表内置函数 Coverage Results" MODIFIED="1556880499639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python知识体系/2，数据结构/2.1，列表" />
     <SUITE FILE_PATH="coverage/Python_code$pandas.coverage" NAME="pandas操作 Coverage Results" MODIFIED="1552809146803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/pandas" />
     <SUITE FILE_PATH="coverage/Python_code$day1.coverage" NAME="day1 Coverage Results" MODIFIED="1556773591050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/老男孩python全栈_笔记" />
-    <SUITE FILE_PATH="coverage/Python_code$thread.coverage" NAME="使用thread模块 Coverage Results" MODIFIED="1552207038881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程" />
     <SUITE FILE_PATH="coverage/Python_code$day1__1_.coverage" NAME="day1 (1) Coverage Results" MODIFIED="1556794987095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/老男孩python全栈_笔记/day1" />
     <SUITE FILE_PATH="coverage/Python_code$1.coverage" NAME="1，特殊方法（魔法方法） Coverage Results" MODIFIED="1552753935955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记" />
-    <SUITE FILE_PATH="coverage/Python_code$__slots___property.coverage" NAME="廖雪峰的__slots__，和@property Coverage Results" MODIFIED="1552805156799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包" />
-    <SUITE FILE_PATH="coverage/Python_code$excel.coverage" NAME="excel Coverage Results" MODIFIED="1556035152863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点" />
     <SUITE FILE_PATH="coverage/Python_code$lianxi1.coverage" NAME="lianxi1 Coverage Results" MODIFIED="1555839507408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/练习" />
     <SUITE FILE_PATH="coverage/Python_code$pandas_.coverage" NAME="十分钟搞定pandas ——重现 Coverage Results" MODIFIED="1552896580471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/pandas" />
-    <SUITE FILE_PATH="coverage/Python_code$day8.coverage" NAME="day8 Coverage Results" MODIFIED="1556815389539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/老男孩python全栈_笔记/day8_文件操作" />
     <SUITE FILE_PATH="coverage/Python_code$sleep_6_.coverage" NAME="通过sleep(6)引出锁的概念 Coverage Results" MODIFIED="1552289373550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程" />
     <SUITE FILE_PATH="coverage/Python_code$__1_.coverage" NAME="验证 (1) Coverage Results" MODIFIED="1555957631482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/练习" />
     <SUITE FILE_PATH="coverage/Python_code$try__expert.coverage" NAME="try  expert Coverage Results" MODIFIED="1552376634145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点" />
-    <SUITE FILE_PATH="coverage/Python_code$mapreducefiltersorted.coverage" NAME="map，reduce，filter，sorted Coverage Results" MODIFIED="1552806957597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/函数式编程/高阶函数/map" />
-    <SUITE FILE_PATH="coverage/Python_code$__2_.coverage" NAME="特殊方法（魔法方法） (2) Coverage Results" MODIFIED="1552751049785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python_cookbook_读书笔记/1,特殊方法（魔法方法）" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="5步搞清函数参数传递.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/笔记/函数/5步搞清函数参数传递.py">
+      <file leaf-file-name="5步搞清函数参数传递.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python知识体系/3，函数/3.3，函数参数/5步搞清函数参数传递.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="85" column="3" lean-forward="true" selection-start-line="85" selection-start-column="3" selection-end-line="85" selection-end-column="3" />
+            <state relative-caret-position="220">
+              <caret line="70" column="9" lean-forward="true" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="6.1，文件处理.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python知识体系/6，文件处理/6.1，文件处理.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="字符串——7招必备.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/笔记/字符串/字符串——7招必备.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="字符串.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.8，字符串/字符串.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="234" column="31" lean-forward="false" selection-start-line="234" selection-start-column="31" selection-end-line="234" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -62,10 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/补充以及强化知识点/pycharm 常用快捷键.py" />
-        <option value="$PROJECT_DIR$/补充以及强化知识点/python核心编程/python 使用mysql/数据库刷题/mysql（pymysql）.py" />
-        <option value="$PROJECT_DIR$/补充以及强化知识点/try  expert.py" />
-        <option value="$PROJECT_DIR$/补充以及强化知识点/字典/练习.py" />
         <option value="$PROJECT_DIR$/补充以及强化知识点/字典/字典内置函数.py" />
         <option value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook/1，python——数据模型/特殊方法.py" />
         <option value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook/1，python——数据模型/特殊方法（魔法方法）.py" />
@@ -113,6 +140,10 @@
         <option value="$PROJECT_DIR$/老男孩python全栈_笔记/day13_迭代器，生成器/迭代器.py" />
         <option value="$PROJECT_DIR$/老男孩python全栈_笔记/第二次考试.py" />
         <option value="$PROJECT_DIR$/python知识体系/1，基础知识/1.1，python解释器/基础.py" />
+        <option value="$PROJECT_DIR$/python知识体系/3，函数/3.3，函数参数/5步搞清函数参数传递.py" />
+        <option value="$PROJECT_DIR$/python知识体系/6，文件处理/6.1，文件处理.py" />
+        <option value="$PROJECT_DIR$/python知识体系/2，数据结构/2.1，列表/列表内置函数.py" />
+        <option value="$PROJECT_DIR$/python知识体系/2，数据结构/2.1，列表/列表内置函数(11个内置方法).py" />
       </list>
     </option>
   </component>
@@ -160,19 +191,20 @@
             <path>
               <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_code" type="462c0819:PsiDirectoryNode" />
-              <item name="笔记" type="462c0819:PsiDirectoryNode" />
+              <item name="python知识体系" type="462c0819:PsiDirectoryNode" />
+              <item name="2，数据结构" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_code" type="462c0819:PsiDirectoryNode" />
+              <item name="python知识体系" type="462c0819:PsiDirectoryNode" />
+              <item name="2，数据结构" type="462c0819:PsiDirectoryNode" />
+              <item name="2.8，字符串" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_code" type="462c0819:PsiDirectoryNode" />
               <item name="笔记" type="462c0819:PsiDirectoryNode" />
-              <item name="函数" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_code" type="462c0819:PsiDirectoryNode" />
-              <item name="笔记" type="462c0819:PsiDirectoryNode" />
-              <item name="集合" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -187,18 +219,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python练习代码\python笔记\Python_code\笔记\字符串" />
+      <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\3，函数\3.3，函数参数" />
       <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\2，数据结构\2.7，内置函数" />
       <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\2，数据结构\2.4，集合" />
       <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\2，数据结构\2.3，字典" />
-      <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\2，数据结构\2.2，元组" />
-      <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\2，数据结构\2.1，列表" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\2，数据结构\2.8，字符串" />
       <recent name="D:\python练习代码\python笔记\Python_code\笔记\运算符" />
       <recent name="D:\python练习代码\python笔记\Python_code\老男孩python全栈_笔记\day1" />
       <recent name="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\练习" />
       <recent name="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\函数式编程\高阶函数" />
-      <recent name="D:\python练习代码\python笔记\Python_code\补充以及强化知识点\python——cookbook——笔记\1，特殊方法（魔法方法）" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -213,7 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.基础">
+  <component name="RunManager" selected="Python.列表内置函数">
     <configuration name="基础" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -290,58 +322,58 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="day8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="列表内置函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/老男孩python全栈_笔记/day8_文件操作" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python知识体系/2，数据结构/2.1，列表" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Knowledge-planet" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/老男孩python全栈_笔记/day8_文件操作/day8.py" />
+      <option name="SCRIPT_NAME" value="D:\python练习代码\python笔记\Python_code\python知识体系\2，数据结构\2.1，列表\列表内置函数(11个内置方法).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Doctests in 内置函数" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="5步搞清函数参数传递" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/笔记/内置函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python知识体系/3，函数/3.3，函数参数" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Knowledge-planet" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/笔记/内置函数/内置函数.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python知识体系/3，函数/3.3，函数参数/5步搞清函数参数传递.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.day8" />
-      <item index="1" class="java.lang.String" itemvalue="Python.列表，元组总结" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Doctests in 内置函数" />
-      <item index="3" class="java.lang.String" itemvalue="Python.迭代器" />
-      <item index="4" class="java.lang.String" itemvalue="Python.基础" />
+      <item index="0" class="java.lang.String" itemvalue="Python.列表，元组总结" />
+      <item index="1" class="java.lang.String" itemvalue="Python.迭代器" />
+      <item index="2" class="java.lang.String" itemvalue="Python.基础" />
+      <item index="3" class="java.lang.String" itemvalue="Python.5步搞清函数参数传递" />
+      <item index="4" class="java.lang.String" itemvalue="Python.列表内置函数" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.基础" />
-        <item index="1" class="java.lang.String" itemvalue="Python.迭代器" />
-        <item index="2" class="java.lang.String" itemvalue="Python.列表，元组总结" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Doctests in 内置函数" />
-        <item index="4" class="java.lang.String" itemvalue="Python.day8" />
+        <item index="0" class="java.lang.String" itemvalue="Python.列表内置函数" />
+        <item index="1" class="java.lang.String" itemvalue="Python.5步搞清函数参数传递" />
+        <item index="2" class="java.lang.String" itemvalue="Python.基础" />
+        <item index="3" class="java.lang.String" itemvalue="Python.迭代器" />
+        <item index="4" class="java.lang.String" itemvalue="Python.列表，元组总结" />
       </list>
     </recent_temporary>
   </component>
@@ -371,14 +403,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14837712" sideWeight="0.5031746" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.064914994" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27202472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.04018547" sideWeight="0.4968254" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25555557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25555557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -443,27 +476,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/try  except.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/练习/lianxi1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/练习/Exercise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/补充以及强化知识点/函数式编程/高阶函数/map，reduce，filter，sorted，zip.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -704,14 +716,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/笔记/字符串/字符串.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="234" column="31" lean-forward="false" selection-start-line="234" selection-start-column="31" selection-end-line="234" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/老男孩python全栈_笔记/day8_文件操作/day8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -802,14 +806,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.1，列表/列表内置函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python知识体系/1，基础知识/1.1，python解释器/基础.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -820,8 +816,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/笔记/函数/5步搞清函数参数传递.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="85" column="3" lean-forward="true" selection-start-line="85" selection-start-column="3" selection-end-line="85" selection-end-column="3" />
+        <state relative-caret-position="1716">
+          <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/3，函数/3.3，函数参数/5步搞清函数参数传递.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="70" column="9" lean-forward="true" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.8，字符串/字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="234" column="31" lean-forward="false" selection-start-line="234" selection-start-column="31" selection-end-line="234" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.1，列表/列表内置函数(11个内置方法).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="124" column="3" lean-forward="true" selection-start-line="124" selection-start-column="3" selection-end-line="124" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/6，文件处理/6.1，文件处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/字符串/字符串——7招必备.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding />
         </state>
       </provider>
