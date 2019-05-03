@@ -1,73 +1,66 @@
 '''
 ###################  python内置函数(常用)  ##################
 ####重点  22. eval()  24. filter()  26. format()  42. map()  52. range()  59. sorted()  67. zip()
-  1,abs(x)  取绝对值
+'''
+'''1,abs(x)  取绝对值'''
+abs(-10)
+# 10
 
-        >>> abs(-10)
-        10
+'''2. all()　接受一个迭代器，如果迭代器的所有元素都为真，那么返回True，否则返回False'''
+tmp_1 = ['python',123]
+print(all(tmp_1))
+# True
+tmp_2 = []
+print(all(tmp_2))
+# True
+tmp_3 = [0]
+print(all(tmp_3))
+# False
 
-  2. all()　　接受一个迭代器，如果迭代器的所有元素都为真，那么返回True，否则返回False
+'''3. any()　　接受一个迭代器，如果迭代器里有一个元素为真，那么返回True,否则返回False'''
 
-        >>> tmp_1 = ['python',123]
-        >>> all(tmp_1)
-        True
-        >>> tmp_2 = []
-        >>> all(tmp_2)
-        True
-        >>> tmp_3 = [0]
-        >>> all(tmp_3)
-        False
+'''4. ascii()　　调用对象的__repr__()方法，获得该方法的返回值.'''
 
-  3. any()　　接受一个迭代器，如果迭代器里有一个元素为真，那么返回True,否则返回False
+'''5. bin(),　6. oct(),  7. hex()  　　三个函数功能为：将十进制数分别转换为2/8/16进制。'''
 
-  4. ascii()　　调用对象的__repr__()方法，获得该方法的返回值.
+'''8. bool()　　测试一个对象是True还是False.'''
 
-  5. bin(),　6. oct(),  7. hex()  　　三个函数功能为：将十进制数分别转换为2/8/16进制。
+'''9. bytes()　　将一个字符串转换成字节类型'''
+s = 'python'
+x = bytes(s, encoding='utf-8')
+# b'python'
+a = '王'
+s = bytes(a, encoding='utf-8')
+# b'\xe7\x8e\x8b'
 
-  8. bool()　　测试一个对象是True还是False.
+''' 10. str()　　将字符类型/数值类型等转换为字符串类型'''
+str(b'\xe7\x8e\x8b', encoding='utf-8')  # 字节转换为字符串
+# '王'
+str(1)   # 整数转换为字符串
+# '1'
 
-  9. bytes()　　将一个字符串转换成字节类型
+'''11，challable()　　判断对象是否可以被调用，能被调用的对象就是一个callables对象，比如函数和带有__call__()的实例'''
+callable(max)
+# True
+callable([1, 2, 3])
+# False
+callable(None)
+# False
+callable('str')
+# False
 
-        >>> s = 'python'
-        >>> x = bytes(s, encoding='utf-8')
-        >>> x
-        b'python'
-        >>> a = '王'
-        >>> s = bytes(a, encoding='utf-8')
-        >>> s
-        b'\xe7\x8e\x8b'
-
-  10. str()　　将字符类型/数值类型等转换为字符串类型
-
-         >>> str(b'\xe7\x8e\x8b', encoding='utf-8')  # 字节转换为字符串
-         '王'
-         >>> str(1)   # 整数转换为字符串
-         '1'
-
-  11，challable()　　判断对象是否可以被调用，能被调用的对象就是一个callables对象，比如函数和带有__call__()的实例
-
-        >>> callable(max)
-        True
-        >>> callable([1, 2, 3])
-        False
-        >>> callable(None)
-        False
-        >>> callable('str')
-        False
-
-  12，char()，13. ord()　　查看十进制数对应的ASCII字符/查看某个ASCII对应的十进制数
-
-        >>> chr(-1)
-        Traceback (most recent call last):
-          File "<pyshell#26>", line 1, in <module>
-            chr(-1)
-        ValueError: chr() arg not in range(0x110000)
-        >>> chr(0)
-        '\x00'
-        >>> ord('\x00')
-        0
-        >>> ord('7')
-        55
+'''12，char()，13. ord()　　查看十进制数对应的ASCII字符/查看某个ASCII对应的十进制数'''
+chr(-1)
+# Traceback (most recent call last):
+#   File "<pyshell#26>", line 1, in <module>
+#     chr(-1)
+# ValueError: chr() arg not in range(0x110000)
+chr(0)
+# '\x00'
+ord('\x00')
+# 0
+ord('7')
+# 55
 
   14，classmethod()　　用来指定一个方法为类的方法，由类直接调用执行，
                        只有一个cls参数,执行雷的方法时，自动将调用该方法的类赋值给cls.没有此参数指定的类的方法为实例方法
