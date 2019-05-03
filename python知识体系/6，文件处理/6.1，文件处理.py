@@ -20,3 +20,23 @@ file.tell()      显示文件指针所在位置
 file.seek()      定义文件中的指针位置
 
 '''
+###只读：r ，rb
+# 绝对路径
+file = open('F:\哈登.txt', mode='r', encoding='utf-8') #mode：模式
+file_read = file.read()
+print(file_read)
+file.close()
+# mvp
+
+# 高级写法
+with open('F:\哈登.txt', mode='r', encoding='utf-8') as file:
+    file_read = file.read()
+    print(file_read)
+
+###只写： w  如果没有此文件，就会创建文件，再写
+#            如果已经存在文件，就先将源文件清空，再写
+file = open('F:\log1.txt', mode='wb') #mode：模式
+# file_read = file.read()
+file.write('哈登mvp，这是重新写入的方法'.encode('gbk'))
+# print(file_read)
+file.close()
