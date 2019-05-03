@@ -51,38 +51,58 @@
       <file leaf-file-name="6.1，文件处理.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python知识体系/6，文件处理/6.1，文件处理.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
+            <state relative-caret-position="418">
               <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="字符串——7招必备.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/笔记/字符串/字符串——7招必备.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="字符串——7招必备.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.8，字符串/字符串——7招必备.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="内置函数.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="内置函数.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.7，内置函数/内置函数.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="列表内置函数(11个内置方法).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.1，列表/列表内置函数(11个内置方法).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="48" column="43" lean-forward="false" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="元组内置函数.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.2，元组/元组内置函数.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="列表，元组，字典中的10招技能.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.2，元组/列表，元组，字典中的10招技能.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-660">
-              <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="集合.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.4，集合/集合.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -103,7 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook/1，python——数据模型/特殊方法（魔法方法）.py" />
         <option value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook/1,python——数据模型/特殊方法（魔法方法）.py" />
         <option value="$PROJECT_DIR$/补充以及强化知识点/python_cookbook_读书笔记/特殊方法（魔法方法）.py" />
         <option value="$PROJECT_DIR$/补充以及强化知识点/python_cookbook_读书笔记/1,特殊方法（魔法方法）/特殊方法（魔法方法）.py" />
@@ -151,9 +170,10 @@
         <option value="$PROJECT_DIR$/python知识体系/3，函数/3.3，函数参数/5步搞清函数参数传递.py" />
         <option value="$PROJECT_DIR$/python知识体系/6，文件处理/6.1，文件处理.py" />
         <option value="$PROJECT_DIR$/python知识体系/2，数据结构/2.1，列表/列表内置函数.py" />
-        <option value="$PROJECT_DIR$/python知识体系/2，数据结构/2.1，列表/列表内置函数(11个内置方法).py" />
         <option value="$PROJECT_DIR$/python知识体系/2，数据结构/2.8，字符串/字符串.py" />
         <option value="$PROJECT_DIR$/python知识体系/2，数据结构/2.7，内置函数/内置函数.py" />
+        <option value="$PROJECT_DIR$/python知识体系/2，数据结构/2.1，列表/列表内置函数(11个内置方法).py" />
+        <option value="$PROJECT_DIR$/python知识体系/2，数据结构/2.4，集合/集合.py" />
       </list>
     </option>
   </component>
@@ -209,7 +229,7 @@
               <item name="Python_code" type="462c0819:PsiDirectoryNode" />
               <item name="python知识体系" type="462c0819:PsiDirectoryNode" />
               <item name="2，数据结构" type="462c0819:PsiDirectoryNode" />
-              <item name="2.7，内置函数" type="462c0819:PsiDirectoryNode" />
+              <item name="2.4，集合" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
@@ -486,7 +506,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/补充以及强化知识点/多进程和多线程.py" />
     <entry file="file://$PROJECT_DIR$/补充以及强化知识点/数据可视化.py" />
     <entry file="file://$PROJECT_DIR$/补充以及强化知识点/运算符以及数字.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -777,23 +796,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.4，集合/集合.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.3，字典/字典内置函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.2，元组/元组内置函数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -825,26 +828,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.1，列表/列表内置函数(11个内置方法).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="124" column="3" lean-forward="true" selection-start-line="124" selection-start-column="3" selection-end-line="124" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python知识体系/6，文件处理/6.1，文件处理.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.8，字符串/字符串.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1455">
           <caret line="379" column="21" lean-forward="false" selection-start-line="379" selection-start-column="21" selection-end-line="379" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.8，字符串/字符串——7招必备.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -857,18 +852,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.8，字符串/字符串——7招必备.py">
+    <entry file="file://$PROJECT_DIR$/python知识体系/6，文件处理/6.1，文件处理.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        <state relative-caret-position="418">
+          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.7，内置函数/内置函数.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.1，列表/列表内置函数(11个内置方法).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="48" column="43" lean-forward="false" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.2，元组/元组内置函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.2，元组/列表，元组，字典中的10招技能.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-660">
-          <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/2，数据结构/2.4，集合/集合.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
           <folding />
         </state>
       </provider>

@@ -1,6 +1,6 @@
 '''
 ###################  python内置函数(常用)  ##################
-# 重点  22. eval()  24. filter()  26. format()  42. map()  52. range()  59.
+# 重点  22. eval()  24. filter()  26. format()  42. map()  52. range()  59.sorted()  67,zip()
 # sorted()  67. zip()
 '''
 '''1,abs(x)  取绝对值'''
