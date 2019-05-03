@@ -67,21 +67,16 @@ ord('7')
 14，classmethod()　　用来指定一个方法为类的方法，由类直接调用执行，
                     只有一个cls参数,执行雷的方法时，自动将调用该方法的类赋值给cls.没有此参数指定的类的方法为实例方法
 '''
-
-
 class Province:
     country = "中国"
-
     def __init__(self, name):
         self.name = name
-
     @classmethod
     def show(cls):  # 类方法，由类调用，最少要有一个参数cls，调用的时候这个参数不用传值，自动将类名赋值给cls
         print(cls)
-
-
 # 调用方法
 Province.show()
+
 '''
 15，complie()　　将字符串编译成python能识别或可以执行的代码，也可以将文字读成字符串再编译
                     compile(
@@ -120,54 +115,8 @@ c = dict({'one': 1, 'two': 2})
 
 '''19. dir()　　不带参数时返回当前范围内的变量，方法和定义的类型列表，带参数时返回参数的属性，方法列表'''
 dir()
-['__builtins__', '__doc__', '__loader__', '__name__',
-    '__package__', '__spec__', 'li', 'li1', 'li2', 'li_1']
 dir(list)  # 查看list方法
-['__add__',
-    '__class__',
-    '__contains__',
-    '__delattr__',
-    '__delitem__',
-    '__dir__',
-    '__doc__',
-    '__eq__',
-    '__format__',
-    '__ge__',
-    '__getattribute__',
-    '__getitem__',
-    '__gt__',
-    '__hash__',
-    '__iadd__',
-    '__imul__',
-    '__init__',
-    '__iter__',
-    '__le__',
-    '__len__',
-    '__lt__',
-    '__mul__',
-    '__ne__',
-    '__new__',
-    '__reduce__',
-    '__reduce_ex__',
-    '__repr__',
-    '__reversed__',
-    '__rmul__',
-    '__setattr__',
-    '__setitem__',
-    '__sizeof__',
-    '__str__',
-    '__subclasshook__',
-    'append',
-    'clear',
-    'copy',
-    'count',
-    'extend',
-    'index',
-    'insert',
-    'pop',
-    'remove',
-    'reverse',
- 'sort']
+
 
 '''20. divmod()　　分别取商和余数'''
 divmod(20, 6)
