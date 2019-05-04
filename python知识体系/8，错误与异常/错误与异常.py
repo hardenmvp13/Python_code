@@ -1,4 +1,7 @@
 '''
+try except (异常捕获)
+    当程序出错了，但是我们又不想让用户看到这个错误，而且我在写程序的时候已经预料到了它可以出现这样的错误，
+    出现这样的错误代表着什么，我们可以提前捕获这些个错误
 当python程序检测到错误（语法错误或者是逻辑错误），程序就会终止执行，这时候就出现了异常
 '''
 '''
@@ -18,13 +21,35 @@ UnboundlocalError——试图传入一个还没设置的全局变量
 ValueError——传入一个不被期望的值，即使类型正确
 '''
 '''检测和处理异常：'''
-# 处理多个
-name = [1,2,3]
+# 处理单个异常：
+name = [1, 2, 3]
 try:
-    name[3]  #不存在3这个下标值
-except IndexError as e:   #抓取 IndexError 这个异常
-    print(e) #e是错误的详细信息
+    name[3]  # 不存在3这个下标值
+except IndexError as e:   # 抓取 IndexError 这个异常
+    print(e) # e是错误的详细信息
 # list index out of range
 
-name1 = [1,2,3]
-print(name1[4])
+
+
+# 处理多个异常：
+name = [1, 2, 3]
+data = {"a": "b"}
+try:
+    data["c"]   # 这边已经出现异常KeyError ，所以直接跳出code，跳到KeyError 下去处理
+    name[3]
+except IndexError as e:
+    print(e)
+except KeyError as e:
+    print(e)
+
+# else作用
+try:
+    print("qigao,handson")    #代码没有异常
+except (IndexError,KeyError) as e:
+    print(e)
+except Exception as e:
+    print(e)
+else:             #没有异常出错，走else的逻辑代码
+    print("没有异常")
+# qigao,handson
+# 没有异常
