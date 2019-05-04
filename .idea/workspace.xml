@@ -25,7 +25,7 @@
     <SUITE FILE_PATH="coverage/Python_code$mysqlpymysql.coverage" NAME="mysql（pymysql） Coverage Results" MODIFIED="1552376349998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python核心编程/python 使用mysql/数据库刷题" />
     <SUITE FILE_PATH="coverage/Python_code$threadthreading.coverage" NAME="thread，threading的使用 Coverage Results" MODIFIED="1552205941312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/python核心编程/多线程编程" />
     <SUITE FILE_PATH="coverage/Python_code$os.coverage" NAME="os模块总结 Coverage Results" MODIFIED="1556906455296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python知识体系/7，OS" />
-    <SUITE FILE_PATH="coverage/Python_code$.coverage" NAME="多进程 Coverage Results" MODIFIED="1556906711740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python知识体系/5，控制流程/5.4，进程，线程" />
+    <SUITE FILE_PATH="coverage/Python_code$.coverage" NAME="错误与异常 Coverage Results" MODIFIED="1556953525932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python知识体系/8，错误与异常" />
     <SUITE FILE_PATH="coverage/Python_code$pandas.coverage" NAME="pandas操作 Coverage Results" MODIFIED="1552809146803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点/pandas" />
     <SUITE FILE_PATH="coverage/Python_code$day1.coverage" NAME="day1 Coverage Results" MODIFIED="1556773591050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/老男孩python全栈_笔记" />
     <SUITE FILE_PATH="coverage/Python_code$day1__1_.coverage" NAME="day1 (1) Coverage Results" MODIFIED="1556794987095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/老男孩python全栈_笔记/day1" />
@@ -37,7 +37,55 @@
     <SUITE FILE_PATH="coverage/Python_code$try__expert.coverage" NAME="try  expert Coverage Results" MODIFIED="1552376634145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/补充以及强化知识点" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="正则表达式.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python知识体系/9，正则表达式/正则表达式.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysql_python.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python知识体系/10，数据库/mysql_python.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-726">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysql（pymysql）.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python知识体系/10，数据库/mysql（pymysql）.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="726">
+              <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+              <folding>
+                <marker date="1552376412278" expanded="true" signature="283:312" ph="DROP TABLE I... " />
+                <marker date="1552376412278" expanded="true" signature="338:497" ph="CREATE TABLE... EMPLOYEE" />
+                <marker date="1552376412278" expanded="true" signature="720:838" ph="INSERT INTO EMPLOYEE... " />
+                <marker date="1552376412278" expanded="true" signature="1489:1536" ph="SELECT * FRO... EMPLOYEE" />
+                <marker date="1552376412278" expanded="true" signature="2120:2170" ph="UPDATE EMPLOYEE... " />
+                <marker date="1552376412278" expanded="true" signature="2462:2495" ph="DELETE FROM EMPLOYEE... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="错误与异常.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python知识体系/8，错误与异常/错误与异常.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,7 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/2，harden/harden.py" />
         <option value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/1，特殊方法（魔法方法）.py" />
         <option value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/2，数据结构/列表推导和生成器表达式.py" />
         <option value="$PROJECT_DIR$/补充以及强化知识点/python——cookbook——笔记/7，函数装饰器和闭包/装饰器.py" />
@@ -108,6 +155,7 @@
         <option value="$PROJECT_DIR$/python知识体系/5，控制流程/5.4，进程，线程/多线程.py" />
         <option value="$PROJECT_DIR$/python知识体系/7，OS/os模块总结.py" />
         <option value="$PROJECT_DIR$/python知识体系/5，控制流程/5.4，进程，线程/多进程.py" />
+        <option value="$PROJECT_DIR$/python知识体系/8，错误与异常/错误与异常.py" />
       </list>
     </option>
   </component>
@@ -150,6 +198,17 @@
               <item name="Python_code" type="462c0819:PsiDirectoryNode" />
               <item name="python知识体系" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_code" type="462c0819:PsiDirectoryNode" />
+              <item name="python知识体系" type="462c0819:PsiDirectoryNode" />
+              <item name="8，错误与异常" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_code" type="462c0819:PsiDirectoryNode" />
+              <item name="笔记" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -172,11 +231,11 @@
       <recent name="D:\python练习代码\python笔记\Python_code\笔记\运算符" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\9，数据库" />
+      <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\8，正则表达式" />
+      <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\5，控制流程\5.2，生成器" />
       <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\4，面向对象\4.6，特殊方法" />
       <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\3，函数\3.6，装饰器" />
-      <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\1，基础知识\1.5，运算" />
-      <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\5，控制流程\5.2，生成器" />
-      <recent name="D:\python练习代码\python笔记\Python_code\python知识体系\3，函数\3.2，函数作用域" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -191,7 +250,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.多进程">
+  <component name="RunManager" selected="Python.错误与异常">
     <configuration name="多进程" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -306,20 +365,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="5步搞清函数参数传递" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="错误与异常" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python知识体系/3，函数/3.3，函数参数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python知识体系/8，错误与异常" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Knowledge-planet" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python知识体系/3，函数/3.3，函数参数/5步搞清函数参数传递.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python知识体系/8，错误与异常/错误与异常.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -345,19 +404,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.5步搞清函数参数传递" />
-      <item index="1" class="java.lang.String" itemvalue="Python.1" />
-      <item index="2" class="java.lang.String" itemvalue="Python.os模块总结" />
-      <item index="3" class="java.lang.String" itemvalue="Python.多线程" />
-      <item index="4" class="java.lang.String" itemvalue="Python.多进程" />
+      <item index="0" class="java.lang.String" itemvalue="Python.1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.os模块总结" />
+      <item index="2" class="java.lang.String" itemvalue="Python.多线程" />
+      <item index="3" class="java.lang.String" itemvalue="Python.多进程" />
+      <item index="4" class="java.lang.String" itemvalue="Python.错误与异常" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.多进程" />
-        <item index="1" class="java.lang.String" itemvalue="Python.os模块总结" />
-        <item index="2" class="java.lang.String" itemvalue="Python.多线程" />
-        <item index="3" class="java.lang.String" itemvalue="Python.1" />
-        <item index="4" class="java.lang.String" itemvalue="Python.5步搞清函数参数传递" />
+        <item index="0" class="java.lang.String" itemvalue="Python.错误与异常" />
+        <item index="1" class="java.lang.String" itemvalue="Python.多进程" />
+        <item index="2" class="java.lang.String" itemvalue="Python.os模块总结" />
+        <item index="3" class="java.lang.String" itemvalue="Python.多线程" />
+        <item index="4" class="java.lang.String" itemvalue="Python.1" />
       </list>
     </recent_temporary>
   </component>
@@ -387,14 +446,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14837712" sideWeight="0.5031746" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49304482" sideWeight="0.4968254" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19474497" sideWeight="0.4968254" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34621328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2595238" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2595238" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -459,43 +519,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/笔记/django/阳极项目备注.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔记/django/工作查阅文档记录.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔记/django/django重点理解的知识点.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔记/列表，元组/列表，元组总结.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="98" column="0" lean-forward="false" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔记/列表，元组/列表，元组，字典中的10招技能.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/笔记/内置函数/内置函数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -811,7 +834,7 @@
         <state relative-caret-position="355">
           <caret line="62" column="23" lean-forward="false" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
           <folding>
-            <element signature="e#343#378#0" expanded="true" />
+            <element signature="e#343#378#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -821,7 +844,7 @@
         <state relative-caret-position="399">
           <caret line="219" column="25" lean-forward="false" selection-start-line="219" selection-start-column="25" selection-end-line="219" selection-end-column="25" />
           <folding>
-            <element signature="e#670#686#0" expanded="true" />
+            <element signature="e#670#686#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -838,6 +861,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/5，控制流程/5.2，生成器/列表推导和生成器表达式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/9，正则表达式/正则表达式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/10，数据库/mysql_python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-726">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/10，数据库/mysql（pymysql）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <folding>
+            <marker date="1552376412278" expanded="true" signature="283:312" ph="DROP TABLE I... " />
+            <marker date="1552376412278" expanded="true" signature="338:497" ph="CREATE TABLE... EMPLOYEE" />
+            <marker date="1552376412278" expanded="true" signature="720:838" ph="INSERT INTO EMPLOYEE... " />
+            <marker date="1552376412278" expanded="true" signature="1489:1536" ph="SELECT * FRO... EMPLOYEE" />
+            <marker date="1552376412278" expanded="true" signature="2120:2170" ph="UPDATE EMPLOYEE... " />
+            <marker date="1552376412278" expanded="true" signature="2462:2495" ph="DELETE FROM EMPLOYEE... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python知识体系/8，错误与异常/错误与异常.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
           <folding />
         </state>
       </provider>
