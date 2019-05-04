@@ -43,6 +43,8 @@ except KeyError as e:
     print(e)
 
 # else作用
+# 作用：没有异常，则走else部分的逻辑代码
+
 try:
     print("qigao,handson")    #代码没有异常
 except (IndexError,KeyError) as e:
@@ -53,3 +55,36 @@ else:             #没有异常出错，走else的逻辑代码
     print("没有异常")
 # qigao,handson
 # 没有异常
+
+# finally
+# 作用：不管有没有错误，都会执行finnally中的代码
+# 没有异常的情况
+try:
+    print("qigao,handson")  #没有异常
+except (IndexError,KeyError) as e:
+    print(e)
+except Exception as e:
+    print(e)
+else:
+    print("没有异常")
+finally:
+    print("不管有没有错，都这行finnally")
+# qigao,handson
+# 没有异常
+# 不管有没有错，都这行finnally
+
+# 出现异常的情况
+try:
+    data = {"a":"b"}
+    data["c"]   # data字典中没有'c'这个key值
+except (IndexError,KeyError) as e:
+    print(e)
+except Exception as e:
+    print(e)
+else:
+    print("没有异常")
+finally:
+    print("不管有没有错，都这行finnally")
+
+# 'c'
+# 不管有没有错，都这行finnally   #出错了也执行了finnally语句

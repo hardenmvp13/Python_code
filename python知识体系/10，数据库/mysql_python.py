@@ -24,13 +24,12 @@ Python中使用MySQL导入方法：import MySQLdb
 
 参数名	类型	说明
 host	String	MySQL的服务器地址
-port	int	MySQL的端口号
+port	int	    MySQL的端口号
 user	String	用户名
 passwd	String	密码
-db	String	使用的数据库
+db	    String	使用的数据库
 charset	String	连接字符集
-　　Connection支持的方法：
-
+Connection支持的方法：
 方法名	说明
 cursor（）	创建并且返回游标
 commit（）	提交当前事物

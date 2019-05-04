@@ -18,7 +18,8 @@ sql = """CREATE TABLE EMPLOYEE (
          LAST_NAME  CHAR(20),
          AGE INT,  
          SEX CHAR(1),
-         INCOME FLOAT )"""
+         INCOME FLOAT )
+      """
 # 使用 execute()  方法执行 SQL 语句
 cursor.execute(sql)
 # 关闭数据库连接
